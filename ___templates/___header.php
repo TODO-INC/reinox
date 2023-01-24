@@ -1,5 +1,5 @@
 <main>
-    <h1 class="visually-hidden">Home-Santhosh</h1>
+    <h1 class="visually-hidden">Home</h1>
 
     <div class="container">
         <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
@@ -7,15 +7,15 @@
                 <svg class="bi me-2" width="40" height="32">
                     <use xlink:href="#bootstrap" />
                 </svg>
-                <span class="fs-4">Santhosh Vairamuthu</span>
+                <span class="fs-4">NEC</span>
             </a>
 
-            <ul class="nav nav-pills">
+            <!-- <ul class="nav nav-pills">
                 <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">AboutMe</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">Contact</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
-            </ul>
+            </ul> -->
         </header>
     </div>
 
