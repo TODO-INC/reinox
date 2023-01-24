@@ -1,4 +1,4 @@
-<!-- loading templtes -->
+<!-- loading templates -->
 <?php
 include "___libs/loads.php";
 ?>

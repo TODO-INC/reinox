@@ -1,7 +1,31 @@
-<!DOCTYPE html>
-<head>
-    <title>SYMPOWEB!</title>
-</head>
+<!-- loading templates -->
+<?php
+include "___libs/loads.php";
+?>
+
+
+<!-- Main document -->
+
+<!doctype html>
+<html>
+
+<!-- head -->
+<?php load_temp("___head.php"); ?>
+
+<!-- body -->
 <body>
-    <h1>this is a sample webpage  😃</h1>
+
+
+    <header>
+        <?php load_temp("___header.php"); ?>
+    </header>
+
+    <h1> This is Sample 😇 </h1>
+
+    <footer>
+        <?php load_temp("___footer.php"); ?>
+    </footer>
+    
+
 </body>
+</html>
