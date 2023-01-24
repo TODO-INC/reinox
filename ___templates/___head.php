@@ -4,7 +4,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="NEC">
 	<meta name="generator" content="Hugo 0.84.0">
-	<title>MY FIRST WEBSITE</title>
+	<title>SYMPOWEB!</title>
 
 	<!-- Core CSS -->
 	<link href="../sympoweb/assets/dist/css/bootstrap.min.css" rel="stylesheet">
