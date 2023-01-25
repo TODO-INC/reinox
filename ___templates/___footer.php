@@ -26,7 +26,7 @@
 			<div class="footer-center">
 
 				<div>
-					<i class="fa fa-map-marker"></i>
+					<i class="bi bi-map-marker"></i>
 					<p><span>National Engineering College (Autonomous)<span>,
 K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 				</div>
@@ -35,7 +35,7 @@ K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 				</div>
 
 				<div>
-					<i class="fa fa-envelope"></i>
+					<i class="bi bi-envelope"></i>
 					<p><a href="mailto:reinox2022@gmail.com">reinox2022@gmail.com</a></p>
 				</div>
 
@@ -50,9 +50,9 @@ K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 
 				<div class="footer-icons">
 
-					<a href="#"><i class="bi bi-instagram"></i></a>
-					<a href="#"><i class="bi bi-twitter"></i></a>
-					<a href="#"><i class="bi bi-linkedin"></i></a>
+					<a href="https://instagram.com/necitsm?igshid=YmMyMTA2M2Y="target="blank"><i class="bi bi-instagram"></i></a>
+					<a href="https://twitter.com/NECKVP" target="blank"><i class="bi bi-twitter"></i></a>
+					<a href="https://www.linkedin.com/school/national-engineering-college/" target="blank"><i class="bi bi-linkedin"></i></a>
 
 
 				</div>
