@@ -1,5 +1,6 @@
 <div class = "center">
-    <br>
+    <h2>DAY 2 : (11/02/2023)</h2>
+    <!-- <br> -->
     <h3>Non Technical Events</h3>
 </div>
 <div  class="d-flex justify-content-center">
@@ -38,14 +39,14 @@
             </div>
           </div>
         </div>
-        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
         </button>
         <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
-        </button>
+        </button> -->
       </div>
     </div>
   </div>
