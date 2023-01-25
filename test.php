@@ -22,7 +22,11 @@ include "___libs/loads.php";
     </header>
 
     <main>
-        <?php load_temp("___renoxtitle.php"); ?>
+        <?php
+
+    load_temp("___renoxtitle.php");
+
+    ?>
     </main>
 
     <?php load_temp("___footer.php"); ?>
