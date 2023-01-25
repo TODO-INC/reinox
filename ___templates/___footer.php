@@ -30,6 +30,7 @@ K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 					<a href="https://instagram.com/necitsm?igshid=YmMyMTA2M2Y="target="blank"><i class="bi bi-instagram"></i></a>
 					<a href="https://twitter.com/NECKVP" target="blank"><i class="bi bi-twitter"></i></a>
 					<a href="https://www.linkedin.com/school/national-engineering-college/" target="blank"><i class="bi bi-linkedin"></i></a>
+					<a href="https://www.youtube.com/watch?v=5P7Iax-D4K4" target="blank"><i class="bi bi-youtube"></i></a>
 
 
 				</div>
