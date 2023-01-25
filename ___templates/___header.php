@@ -1,4 +1,5 @@
 <main>
+
     <div class="b-example-divider"></div>
     <div class="container">
         <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
@@ -11,8 +12,8 @@
         </ul>
 
         <div class="col-md-3 text-end">
-        <img src="___sources/header.png" alt="NEC IT">
-        <img src="___sources/header-1.png" alt="NEC ITA">
+      <span><img src="___sources/header.png"  alt="NEC IT"></span>
+        <img src="___sources/header-1.png"  alt="NEC ITA">
         </div>
         </header>
     </div>
