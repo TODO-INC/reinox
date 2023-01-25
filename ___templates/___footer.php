@@ -10,9 +10,8 @@
 			</div>
 			<div class="footer-center">
 				<div>
-					<i class="bi bi-map-marker"></i>
-					<p><span>National Engineering College (Autonomous)<span>,
-K.R.Nagar, Kovilpatti – 628 503.</span> </p>
+				<a href="https://goo.gl/maps/8giEuYmvymr8yP767"><i class="bi bi-geo-alt" ></i></a>
+					<p><span>National Engineering College (Autonomous)<span>,K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 				</div>
 				<div>
 				</div>
