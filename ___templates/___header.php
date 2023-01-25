@@ -11,8 +11,8 @@
         </ul>
 
         <div class="col-md-3 text-end">
-            <button type="button" class="btn btn-outline-primary me-2">Login</button>
-            <button type="button" class="btn btn-primary">Sign-up</button>
+        <img src="___sources/header.png" alt="NEC IT">
+        <img src="___sources/header-1.png" alt="NEC ITA">
         </div>
         </header>
     </div>
