@@ -20,7 +20,7 @@ include "___libs/loads.php";
         <?php load_temp("___header.php"); ?>
     </header>
 
-    <h1> This is Sample 😇 </h1>
+    <h1> This is Sample  😇 </h1>
 
     <footer>
         <?php load_temp("___footer.php"); ?>
