@@ -13,6 +13,7 @@
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+          <br><br><br>
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -46,6 +47,7 @@
             </div>
           </div>
         </div>
+        
         <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Previous</span>
@@ -54,9 +56,18 @@
           <span class="carousel-control-next-icon" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button> -->
-      </div>
+      
     </div>
+    <div class="card">
+          <div class="card-body">
+            <div class="center">
+          <div class="d-grid gap-2 d-md-block">
+                        <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
+                    </div>
+</div>
+          </div>
+        </div>
+  </div>
   </div>
 </div>
 <br>
-
