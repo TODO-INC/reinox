@@ -24,7 +24,7 @@ include "___libs/loads.php";
     <main>
         <?php
 
-    load_temp("___renoxtitle.php");
+    load_temp("___contact.php");
 
     ?>
     </main>
