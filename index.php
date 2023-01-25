@@ -20,7 +20,7 @@ include "___libs/loads.php";
 
         <?php load_temp("___header.php"); ?>
     </header>
-
+<div class="totler">
     <main>
         <?php load_temp("___renoxtitle.php"); ?>
         <?php load_temp("___workshop.php"); ?>
@@ -29,6 +29,7 @@ include "___libs/loads.php";
         <?php load_temp("___register.php"); ?>
         <?php load_temp("___contact.php"); ?>
     </main>
+</div>
 
     <?php load_temp("___footer.php"); ?>
 
