@@ -50,9 +50,9 @@ K.R.Nagar, Kovilpatti – 628 503.</span> </p>
 
 				<div class="footer-icons">
 
-					<a href="#"><i class="fa fa-instagram"></i></a>
-					<a href="#"><i class="fa fa-twitter"></i></a>
-					<a href="#"><i class="fa fa-linkedin"></i></a>
+					<a href="#"><i class="bi bi-instagram"></i></a>
+					<a href="#"><i class="bi bi-twitter"></i></a>
+					<a href="#"><i class="bi bi-linkedin"></i></a>
 
 
 				</div>
