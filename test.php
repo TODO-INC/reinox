@@ -24,7 +24,7 @@ include "___libs/loads.php";
     <main>
         <?php
 
-    load_temp("___register.php");
+    load_temp("___workshop.php");
 
     ?>
     </main>
