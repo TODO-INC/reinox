@@ -7,6 +7,10 @@
                     <use xlink:href="../index.php" />
                 </svg>
                 <span class="fs-4">NEC</span>
+                <div class="center">
+                    <span>DEPARTMENT OF INFORMATION TECHNOLOGY</span>
+                </div>
+
             </a>
         </header>
     </div>
