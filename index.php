@@ -23,6 +23,7 @@ include "___libs/loads.php";
 
     <main>
         <?php load_temp("___renoxtitle.php"); ?>
+        <?php load_temp("___register.php"); ?>
         <?php load_temp("___contact.php"); ?>
     </main>
 
