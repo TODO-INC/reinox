@@ -2,11 +2,11 @@
 
 			<div class="footer-left">
 				<!-- <h3>Company<span>logo</span></h3> -->
-				<img src="___sources/footer.png" alt="NEC IT">
+				<!-- <img src="___sources/footer.png" alt="NEC IT">
 				<p class="footer-links">
 					<a href="#" class="link-1">
 				</p>
-				<p class="footer-company-name">
+				<p class="footer-company-name"> -->
 			</div>
 			<div class="footer-center">
 				<div>
