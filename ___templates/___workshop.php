@@ -14,6 +14,8 @@
                         <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
                         <!-- <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135">Click to register</a>
                     </div> -->
+                        <button class="btn btn-primary" onclick="window.location.href = '_d1ws.php';"type="button">Click here to know more</button>
+                    </div>
                 </div>
             </div>
         </div>
