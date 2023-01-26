@@ -1,7 +1,6 @@
-
-<div class="main-container">
+<div class="main-container col-md-6 col-lg-6">
   <div class="cards">
-    <div class="card card-1">
+    <div class="card card-1 d-flex justify-content-center center ">
       <div class="card__icon"><i class="fas fa-bolt"></i></div>
       <div class="h-100 p-5 bg-light border rounded-3">
             <div class="center">
@@ -16,13 +15,15 @@
                 <h4 style="margin-top: -10px;">Events fee : 150</h4>
                 <!-- <button class="btn" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" ><span>Click here to register</span></button> -->
                 <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135 linked">Click to register</a>
-                
-
+                <br><br>
             </div>
         </div>
     </div>
   </div>
 </div>
+
+
+
 
 
 

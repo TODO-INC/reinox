@@ -78,7 +78,7 @@
 
 
 <div  class="d-flex justify-content-center">
-    <div class="col-md-6">
+    <div class="col-md-12 d-flex justify-content-center">
         <div class="card mb-3">
         <div id="carouselExampleAutoplaying" class="carousel slide " data-bs-ride="carousel" >
         <div class="carousel-indicators h-25 ">
