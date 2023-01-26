@@ -2,8 +2,9 @@
     <h2>DAY 1 : (10/02/2023)</h2>
     <!-- <br> -->
 </div>
+<div class="main-container col-md-12 d-flex justify-content-center ">
 <div  class="d-flex justify-content-center">
-    <div class="col-md-6">
+    <div class="col-md-12">
         <div class="card mb-3">
             <img src="___sources/aiml.jpg" class="card-img-top" >
             <div class="card-body">
@@ -20,6 +21,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 <br>
 <br>
