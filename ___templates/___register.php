@@ -1,6 +1,9 @@
-<div  class="d-flex justify-content-center"">
-    <div class="col-md-6">
-        <div class="h-100 p-5 bg-light border rounded-3">
+
+<div class="main-container">
+  <div class="cards">
+    <div class="card card-1">
+      <div class="card__icon"><i class="fas fa-bolt"></i></div>
+      <div class="h-100 p-5 bg-light border rounded-3">
             <div class="center">
                 <h2 >Register here !</h2><br>
                 <div style="clear: both">
@@ -18,6 +21,8 @@
             </div>
         </div>
     </div>
+  </div>
 </div>
-<br>
+
+
 
