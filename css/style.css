@@ -330,3 +330,23 @@ section {
     justify-content: center;
   }
 }
+/* body {
+	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+.topt{
+	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #00e6f6;
+
+}
+.myBackground {
+	background-color: rgba(255,255,255, 0.5);
+	color: inherit;
+  }
