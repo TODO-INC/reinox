@@ -11,8 +11,8 @@
         </ul>
 
         <div class="col-md-3 text-end">
-        <img src="___sources/header.png" alt="NEC IT">
-        <img src="___sources/header-1.png" alt="NEC ITA">
+        <img width="100" height="30"  src="___sources/header.png" alt="NEC IT">
+        <img width="95" height="80"  src="___sources/header-1.png" alt="NEC ITA">
         </div>
         </header>
     </div>
