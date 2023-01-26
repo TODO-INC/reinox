@@ -73,5 +73,3 @@ h1 {
     padding-top: 10px;
     font-family: 'Playfair Display';
 }
-
-</style>
