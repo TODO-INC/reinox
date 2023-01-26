@@ -10,22 +10,29 @@ include "___libs/loads.php";
 <html>
 
 <!-- head -->
+
 <?php load_temp("___head.php"); ?>
 
 <!-- body -->
+
 <body>
-
-
     <header>
+
         <?php load_temp("___header.php"); ?>
     </header>
 
-    <h1> This is Sample 😇 </h1>
+    <main>
+        <?php
 
-    <footer>
-        <?php load_temp("___footer.php"); ?>
-    </footer>
-    
+
+    ?>
+    </main>
+
+    <?php load_temp("___footer.php"); ?>
+
+    <script src="../boots/assets/dist/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
+
 </html>
