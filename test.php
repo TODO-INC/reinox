@@ -22,10 +22,7 @@ include "___libs/loads.php";
     </header>
 
     <main>
-        <?php
-
-
-    ?>
+    <?php load_temp("___register.php"); ?>
     </main>
 
     <?php load_temp("___footer.php"); ?>

@@ -11,7 +11,10 @@
                 <br>
                 <p>Workshop fee : 100</p>
                 <p style="margin-top: -20px;">Events fee : 150</p>
-                <button class="btn btn-outline-secondary" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" >Click to register</button>
+                <!-- <button class="btn" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" ><span>Click here to register</span></button> -->
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135">Click to register</a>
+                
+
             </div>
         </div>
     </div>

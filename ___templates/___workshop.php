@@ -12,6 +12,7 @@
                     <h5>Artificial Intelligence & Machine Learning</h5>
                     <div class="d-grid gap-2 d-md-block">
                         <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
+                        <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135">Click to register</a>
                     </div>
                 </div>
             </div>
