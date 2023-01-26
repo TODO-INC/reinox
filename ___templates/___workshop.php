@@ -11,7 +11,7 @@
                     <h4 class="card-title">WORKSHOP</h4>
                     <h5>Artificial Intelligence & Machine Learning</h5>
                     <div class="d-grid gap-2 d-md-block">
-                        <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
+                        <button class="btn btn-primary" onclick="window.location.href = '_d1ws.php';"type="button">Click here to know more</button>
                     </div>
                 </div>
             </div>
