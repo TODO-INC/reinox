@@ -1,5 +1,9 @@
-<div class="card">
-    <div class="center">
+<div class="main-container">
+  <div class="cards">
+    <div class="card card-3">
+      <div class="card__icon"><i class="fas fa-bolt"></i></div>
+      <div class="h-100 p-5 bg-light border rounded-3">
+      <div class="center">
         <div class="card-header" style="font-size:26px">
             HAVE ANY DOUBTS ?
         </div>
@@ -12,4 +16,7 @@
             <p class="card-text">C BHARATHI : 95978 70723</p>
         </div>
     </div>
+        </div>
+    </div>
+  </div>
 </div>
