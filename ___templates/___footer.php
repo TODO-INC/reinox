@@ -1,14 +1,9 @@
 <footer class="footer-distributed">
 
 			<div class="footer-left">
-				<!-- <h3>Company<span>logo</span></h3> -->
-				<!-- <img src="___sources/footer.png" alt="NEC IT">
-				<p class="footer-links">
-					<a href="#" class="link-1">
-				</p>
-				<p class="footer-company-name"> -->
 			</div>
-			<div class="footer-center">
+			<div class="main-container justify-content-left ">
+			<div class="footer-center" >
 				<div>
 				<a href="https://goo.gl/maps/8giEuYmvymr8yP767" target="blank"><i class="bi bi-geo-alt" ></i></a>
 					<p><span>National Engineering College (Autonomous)<span>,K.R.Nagar, Kovilpatti – 628 503.</span> </p>
@@ -20,10 +15,11 @@
 					<p><a href="mailto:reinox2022@gmail.com">reinox2022@gmail.com</a></p>
 				</div>
 			</div>
-			<div class="footer-right">
-				<p class="footer-company-about">
+</div>
+<div class="main-container d-flex  justify-content-right ">
+			<div class="footer-right justify-content-right">
+				<p class="footer-company-about" >
 					<span>IT ASSOCIATION</span>
-					<!-- <a href="  #">back to top</a> -->
 					
 				</p>
 				<a href="  #">back to top</a>
@@ -39,9 +35,10 @@
 				</div>
 
 			</div>
-			<!-- <div class="footer right">
+</div>
+			<div class="footer right">
 				<a href="#">Back to top</a>
-			</div> -->
+			</div> 
 		</footer>
 
 		
