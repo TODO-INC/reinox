@@ -1,422 +1,47 @@
-<div id="wrapper">
-			<h1>
-				<div class="ribbon">
-                    <p class="text-start">Left aligned text on all viewport sizes.</p>
-<p class="text-center">Center aligned text on all viewport sizes.</p>
-<p class="text-end">Right aligned text on all viewport sizes.</p>
+<div class="flex">
+  <div class="card">
+    <div class="header">
+        <div class="title">
+          <div>
+            <h1>5 ways to create inspiring articles</h1>
+            <h6><span>by</span> Joe Bloggs</h6>
+          </div>
+      </div>
+    </div>
+    <div class="content">
+      <div class="articlemeta">
+        <ul class="left">
+          <li><i class="material-icons">&#xE15E;</i></li>
+          <li><i class="material-icons">&#xE87D;</i></li>
+        </ul>
+        <ul class="right">
+          <li><i class="material-icons">&#xE80D;</i></li>
+        </ul>
+      
+      
+      </div>
+      <div class="closebar">
+        <h1>5 ways to create...</h1>
+          <a href="#0" class="closebttn"><i class="material-icons">&#xE5CD;</i></a>
+        </div>
+      <p>Isn't it great to do something you can't fail at? Work on one thing at a time. Don't get carried away - we have plenty of time. You can do it. If we're gonna walk though the woods, we need a little path. You have to make these big decisions.</p>
 
-<p class="text-sm-start">Left aligned text on viewports sized SM (small) or wider.</p>
-<p class="text-md-start">Left aligned text on viewports sized MD (medium) or wider.</p>
-<p class="text-lg-start">Left aligned text on viewports sized LG (large) or wider.</p>
-<p class="text-xl-start">Left aligned text on viewports sized XL (extra-large) or wider.</p>
-					<figure class="letter-wrapper">
-						<span class="letter r">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter i">
-							<span class="bottom"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter b">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter b">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter o">
-							<span class="bottom"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter n">
-							<span class="bottom"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-				</div>
-				<div class="ribbon">
-					<figure class="letter-wrapper">
-						<span class="letter f">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter o">
-							<span class="bottom"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter n">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-					<figure class="letter-wrapper">
-						<span class="letter t">
-							<span class="bottom"></span>
-							<span class="middle"></span>
-							<span class="top"></span>
-						</span>
-						<figcaption>A</figcaption>
-					</figure>
-				</div>
-			</h1>
+<p>We don't really know where this goes - and I'm not sure we really care. Get away from those little Christmas tree things we used to make in school. From all of us here, I want to wish you happy painting and God bless, my friends. If you don't think every day is a good day - try missing a few. You'll see.</p>
 
-      <section>
-        <figure class="letter-wrapper">
-          <span class="letter a">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>A</figcaption>
-        </figure>
+<p>Do an almighty painting with us. Remember how free clouds are. They just lay around in the sky all day long. When you do it your way you can go anywhere you choose. Put your feelings into it, your heart, it's your world. You can't have light without dark. You can't know happiness unless you've known sorrow.</p>
 
-        <figure class="letter-wrapper">
-          <span class="letter b">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>B</figcaption>
-        </figure>
+<p>Use absolutely no pressure. Just like an angel's wing. These trees are so much fun. I get started on them and I have a hard time stopping. Every day I learn.</p>
 
-        <figure class="letter-wrapper">
-          <span class="letter c">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>C</figcaption>
-        </figure>
+<img src="http://placehold.it/380x200">
 
-        <figure class="letter-wrapper">
-          <span class="letter d">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>D</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter e">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>E</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter f">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>F</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter g">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>G</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter h">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>H</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter i">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>I</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter j">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>J</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter k">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>K</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter l">
-            <span class="bottom"></span>
-          </span>
-          <figcaption>L</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter m">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>M</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter n">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>N</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter o">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>O</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter p">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>P</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter q">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>Q</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter r">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>R</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter s">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>S</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter t">
-            <span class="bottom"></span>
-          </span>
-          <figcaption>T</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter u">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>U</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter v">
-            <span class="bottom"></span>
-          </span>
-          <figcaption>V</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter w">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>W</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter x">
-            <span class="bottom"></span>
-            <span class="middle"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>X</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter y">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>Y</figcaption>
-        </figure>
-
-        <figure class="letter-wrapper">
-          <span class="letter z">
-            <span class="bottom"></span>
-            <span class="top"></span>
-          </span>
-          <figcaption>Z</figcaption>
-        </figure>
-      </section>
-		</div>
-        <style>
-            /*
-Project Name: Ribbon
-Description: Pure CSS font #2
-Author: @c4rin3
-Author URI: http://c4rin3.vituelles.fr
-*/
-* {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-size: 15px;
-  background: #082A3A;
-  font-family: sans-serif;
-  color: #FFF;
-}
-h1 {
-  font-size: 5px;
-  padding: 2.5em 0 10em;
-  margin:0;
-  /*display: none;*/
-}
-#wrapper {
-  text-align: center;
-  position: relative;
-  margin: 5% auto;
-  width: 70%;
-  /*border: 1em solid #FA8B60;*/
-  box-shadow: 0px 0px 1em 0.5em rgba(0, 0, 0, 0.3);
-  padding: 5%;
-}
-
-#wrapper::before, #wrapper::after, section::before , section::after  {
-  box-sizing: border-box;
-}
-
-#wrapper::before {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 0.5em;
-  height: 100%;
-  top: 0;
-  left: 0;
-  border-top: 0.5 solid #3F2860;
-  background: #FA8B60 linear-gradient( to bottom, #A45B3F 0, #FA8B60 10%, #FA8B60 85%, #A45B3F);
-}
-#wrapper::after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 0.5em;
-  height: 100%;
-  top: 0;
-  right: 0;
-  border-top: 0.5em solid #3F2860;
-  background: #FA8B60 linear-gradient( to bottom, #A45B3F 0, #FA8B60 10%, #FA8B60 85%, #A45B3F);
-}
-
-section::before {
-content: "";
-position: absolute;
-display: block;
-width: 100%;
-height: 0em;
-top: 0;
-left: 0;
-border-bottom: 0.5em solid #FA8B60;
-border-left: 0.5em solid #3F2860;
-border-right: 0.5em solid #3F2860;
-
-border-left: 0.5em solid #301E49;
-border-right: 0.5em solid #301E49;
-z-index: 2;
-}
-section::after {
-content: "";
-position: absolute;
-display: block;
-width: 100%;
-height: 0em;
-bottom: 0;
-left: 0;
-border-top: 0.5em solid #FA8B60;
-border-left: 0.5em solid #3F2860;
-border-right: 0.5em solid #3F2860;
-
-border-left: 0.5em solid #301E49;
-border-right: 0.5em solid #301E49;
-z-index: 2;
-}
-
-.letter-wrapper {
-  width: 5em;
-  height: 5em;
-  display: inline-block;
-  position: relative;
-  margin: 1em 0.2em;
-  padding: 0; 
-}
-figcaption {
-  display: none;
-  margin-top: 1em;
-  color: rgba(255, 255, 255, 0.14);
-}
-.letter {
-  display: block;
-  margin: 0 auto;
-}
-
-
-        </style>
+      
+<p>There's not a thing in the world wrong with washing your brush. You've got to learn to fight the temptation to resist these things. Just let them happen. Painting should do one thing. It should put happiness in your heart. I can't think of anything more rewarding than being able to express yourself to others through....
+</p>
+     <a href="#0" class="bttn">Read Full Article</a>
+    
+    </div>
+  </div>
+</div>
+<style>
+    
+</style>
