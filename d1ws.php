@@ -1,47 +1,77 @@
-<div class="flex">
-  <div class="card">
-    <div class="header">
-        <div class="title">
-          <div>
-            <h1>5 ways to create inspiring articles</h1>
-            <h6><span>by</span> Joe Bloggs</h6>
-          </div>
-      </div>
-    </div>
-    <div class="content">
-      <div class="articlemeta">
-        <ul class="left">
-          <li><i class="material-icons">&#xE15E;</i></li>
-          <li><i class="material-icons">&#xE87D;</i></li>
-        </ul>
-        <ul class="right">
-          <li><i class="material-icons">&#xE80D;</i></li>
-        </ul>
-      
-      
-      </div>
-      <div class="closebar">
-        <h1>5 ways to create...</h1>
-          <a href="#0" class="closebttn"><i class="material-icons">&#xE5CD;</i></a>
-        </div>
-      <p>Isn't it great to do something you can't fail at? Work on one thing at a time. Don't get carried away - we have plenty of time. You can do it. If we're gonna walk though the woods, we need a little path. You have to make these big decisions.</p>
-
-<p>We don't really know where this goes - and I'm not sure we really care. Get away from those little Christmas tree things we used to make in school. From all of us here, I want to wish you happy painting and God bless, my friends. If you don't think every day is a good day - try missing a few. You'll see.</p>
-
-<p>Do an almighty painting with us. Remember how free clouds are. They just lay around in the sky all day long. When you do it your way you can go anywhere you choose. Put your feelings into it, your heart, it's your world. You can't have light without dark. You can't know happiness unless you've known sorrow.</p>
-
-<p>Use absolutely no pressure. Just like an angel's wing. These trees are so much fun. I get started on them and I have a hard time stopping. Every day I learn.</p>
-
-<img src="http://placehold.it/380x200">
-
-      
-<p>There's not a thing in the world wrong with washing your brush. You've got to learn to fight the temptation to resist these things. Just let them happen. Painting should do one thing. It should put happiness in your heart. I can't think of anything more rewarding than being able to express yourself to others through....
-</p>
-     <a href="#0" class="bttn">Read Full Article</a>
-    
-    </div>
-  </div>
-</div>
+<svg viewBox="0 0 100 100" >
+    <circle r="48" cx="50" cy="50"/>
+    <foreignObject id="text" width="100" height="100">
+        <div class="shape shape-left"></div>
+        <div class="shape shape-right"></div>
+        <div class="text">
+            <h1 contenteditable>RULES</h1>
+            <p contenteditable>NOTHING.</p>  
+        </div> 
+    </foreignObject>
+</svg>
 <style>
-    
+    @import url('//fonts.googleapis.com/css?family=Playfair+Display');
+@import url('//fonts.googleapis.com/css?family=Lato');
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    background: #000 url(https://unsplash.it/g/800/600);
+    background-size: cover;
+}
+
+svg {
+    margin: auto;
+    width: 50%;
+    min-width: 320px;
+    max-height: 100%;
+}
+
+svg circle {
+    fill: red;
+    mix-blend-mode: multiply;
+}
+
+.shape {
+    height: 100%;
+    width: 50px;
+    shape-margin: 2.6px;
+}
+
+.shape-left {
+    float: left;
+    shape-outside: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/18515/circle-left.svg);
+}
+
+.shape-right {
+    float: right;
+    shape-outside: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/18515/circle-right.svg);
+}
+
+.text {
+    font-size: 3.9px;
+    width: 100px;
+    height: 100%;
+    text-align: center;
+    line-height: 1.6;
+    color: white;
+    font-family: 'Lato';
+    hyphens: auto;
+    text-shadow: 0 .2px .3px rgba(0,0,0,.3);
+}
+
+p { 
+    margin: 0; 
+    text-align: justify;
+    text-align-last: center;
+}
+
+h1 {
+    font-size: 7px;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    font-family: 'Playfair Display';
+}
+
 </style>
