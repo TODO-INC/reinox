@@ -28,18 +28,18 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
 
 * {
-  font-family: Open Sans;
+	font-family: Open Sans;
 }
 
 section {
-  width: 100%;
-  display: inline-block;
-  background: #333;
-  height: 50vh;
-  text-align: center;
-  font-size: 22px;
-  font-weight: 700;
-  text-decoration: underline;
+	width: 100%;
+	display: inline-block;
+	background: #333;
+	height: 50vh;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 700;
+	text-decoration: underline;
 }
 
 .footer-distributed{
@@ -127,7 +127,7 @@ section {
 .footer-distributed .footer-center p{
 	display: inline-block;
 	color: #ffffff;
-  font-weight:400;
+	font-weight:400;
 	vertical-align: middle;
 	margin:0;
 }
@@ -145,17 +145,17 @@ section {
 }
 
 .footer-distributed .footer-links a:before {
-  content: "|";
-  font-weight:300;
-  font-size: 20px;
-  left: 0;
-  color: #fff;
-  display: inline-block;
-  padding-right: 5px;
+	content: "|";
+	font-weight:300;
+	font-size: 20px;
+	left: 0;
+	color: #fff;
+	display: inline-block;
+	padding-right: 5px;
 }
 
 .footer-distributed .footer-links .link-1:before {
-  content: none;
+	content: none;
 }
 
 /* Footer Right */
@@ -247,114 +247,126 @@ section {
 	background-color: #00e6f6;
 }
 
-<<<<<<< HEAD
-=======
-
-
-
 
 
 .cards {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
 .card {
-  margin: 20px;
-  padding: 20px;
-  width: 500px;
-  min-height: 200px;
-  display: grid;
-  grid-template-rows: 20px 50px 1fr 50px;
-  border-radius: 10px;
-  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
-  transition: all 0.2s;
+margin: 20px;
+padding: 20px;
+width: 500px;
+min-height: 200px;
+display: grid;
+grid-template-rows: 20px 50px 1fr 50px;
+border-radius: 10px;
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
+transition: all 0.2s;
 }
 
 .card:hover {
-  box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
-  transform: scale(1.01);
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
 }
 
 .card__link,
 .card__exit,
 .card__icon {
-  position: relative;
-  text-decoration: none;
-  color: rgba(255, 255, 255, 0.9);
+position: relative;
+text-decoration: none;
+color: rgba(255, 255, 255, 0.9);
 }
 
 .card__link::after {
-  position: absolute;
-  top: 25px;
-  left: 0;
-  content: "";
-  width: 0%;
-  height: 3px;
-  background-color: rgba(255, 255, 255, 0.6);
-  transition: all 0.5s;
+position: absolute;
+top: 25px;
+left: 0;
+content: "";
+width: 0%;
+height: 3px;
+background-color: rgba(255, 255, 255, 0.6);
+transition: all 0.5s;
 }
 
 .card__link:hover::after {
-  width: 100%;
+width: 100%;
 }
 
 .card__exit {
-  grid-row: 1/2;
-  justify-self: end;
+grid-row: 1/2;
+justify-self: end;
 }
 
 .card__icon {
-  grid-row: 2/3;
-  font-size: 30px;
+grid-row: 2/3;
+font-size: 30px;
 }
 
 .card__title {
-  grid-row: 3/4;
-  font-weight: 400;
-  color: #ffffff;
+grid-row: 3/4;
+font-weight: 400;
+color: #ffffff;
 }
 
 .card__apply {
-  grid-row: 4/5;
-  align-self: center;
+grid-row: 4/5;
+align-self: center;
 }
 
 /* CARD BACKGROUNDS */
 
 .card-1 {
-  background: radial-gradient(#00e6f6,#054782);
+background: radial-gradient(#00e6f6,#054782);
 }
 .card-3 {
-	background: radial-gradient(#76b2fe, #b69efe);
-  }
-  
+background: radial-gradient(#76b2fe, #b69efe);
+}
+
 /* RESPONSIVE */
 
 @media (max-width: 1600px) {
-  .cards {
-    justify-content: center;
-  }
+.cards {
+justify-content: center;
+}
 }
 /* body {
-	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 } */
 .topt{
-	background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: #00e6f6;
+background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-svg.svg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-color: #00e6f6;
 
 }
 .myBackground {
 	background-color: rgba(255,255,255, 0.5);
 	color: inherit;
-  }
->>>>>>> 42c0a33ff4b9aade43fd249c5a3c0bc07665c58b
+}
+
+.overlay{
+	text-align: center;
+	width: 100%;
+	height: auto;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+	padding: 0; 
+	margin: 0; 
+	width: 100%;
+	height: 75%;
+	padding: 10px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+	background-image: linear-gradient( 135deg, #1f6cab 10%, #00e6f6 100%);
+	
+}
