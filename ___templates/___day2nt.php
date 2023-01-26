@@ -53,7 +53,7 @@
           <div class="card-body">
             <div class="center">
           <div class="d-grid gap-2 d-md-block">
-                        <button class="btn btn-primary" onclick="window.location.href = 'd2nt.php';"type="button">Click here to know more</button>
+                        <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
                     </div>
 </div>
           </div>

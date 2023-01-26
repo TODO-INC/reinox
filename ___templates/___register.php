@@ -9,8 +9,8 @@
                     <h5 style="display: inline-block" >&nbsp;&nbsp;per head  </h5>
                 </div>
                 <br>
-                <p>Workshop fee : 100</p>
-                <p style="margin-top: -20px;">Events fee : 150</p>
+                <h4>Workshop fee : 100</h4>
+                <h4 style="margin-top: -10px;">Events fee : 150</h4>
                 <!-- <button class="btn" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" ><span>Click here to register</span></button> -->
                 <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135">Click to register</a>
                 
