@@ -59,10 +59,19 @@
       
     </div>
     <div class="card">
+<<<<<<< HEAD
       <div class="card-body">
         <div class="center">
           <div class="d-grid gap-2 d-md-block w-100">
             <button class="btn btn-primary" onclick="window.location.href = '_ref.php';"type="button">Click here to know more</button>
+=======
+          <div class="card-body">
+            <div class="center">
+          <div class="d-grid gap-2 d-md-block">
+          <button class="btn btn-primary" onclick="window.location.href = 'd2t.php';"type="button">Click here to know more</button>
+                    </div>
+</div>
+>>>>>>> 16eeff9 (try)
           </div>
         </div>
       </div>
