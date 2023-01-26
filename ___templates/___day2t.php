@@ -123,7 +123,8 @@
         </div>
         <div class="d-grid gap-2 d-md-block center">
           <br><br>
-          <button class="btn btn-primary" onclick="window.location.href = 'd2t.php';"type="button" target="blank">Click here to know more</button>
+          <button class="button2 b-red rot-135" onclick="window.location.href = 'd2t.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
+          <!-- <a href='d1ws.php';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-red rot-135">Click here to know more</a> -->
                     </div>
       </div>
         </div>

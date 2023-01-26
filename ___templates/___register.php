@@ -14,8 +14,8 @@
                 <h4>Workshop fee : 100</h4>
                 <h4 style="margin-top: -10px;">Events fee : 150</h4>
                 <!-- <button class="btn" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" ><span>Click here to register</span></button> -->
-                <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135 linked">Click to register</a>
-                <br><br>
+                <button class="btn btn-primary" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';"type="button">Click here to register !</button>
+                <br><br><br>
             </div>
         </div>
     </div>

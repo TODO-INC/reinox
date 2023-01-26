@@ -15,9 +15,6 @@
 <a href="https://twitter.com/NECKVP" target="blank"><i class="bi bi-twitter"></i></a>
 <a href="https://www.linkedin.com/school/national-engineering-college/" target="blank"><i class="bi bi-linkedin"></i></a>
 <a href="https://www.youtube.com/@nationalengineeringcollege4252/featured" target="blank"><i class="bi bi-youtube"></i></a>
-
-
-
 </div>
     </ul>
 </div>
