@@ -12,8 +12,13 @@
         </ul>
 
         <div class="col-md-3 text-end">
+<<<<<<< HEAD
       <span><img src="___sources/header.png"  alt="NEC IT"></span>
         <img src="___sources/header-1.png"  alt="NEC ITA">
+=======
+        <img width="100" height="30"  src="___sources/header.png" alt="NEC IT">
+        <img width="95" height="80"  src="___sources/header-1.png" alt="NEC ITA">
+>>>>>>> 4d06dea617a28f00f3878ca3b523e8365a81a9ae
         </div>
         </header>
     </div>
