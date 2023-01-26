@@ -12,9 +12,7 @@
 <<<<<<< HEAD
 	<link rel="stylesheet" href="css/button.css">
 =======
-	<link rel="stylesheet" href="css/style1.css">
-	<link rel="stylesheet" href="css/style2.css">
-	<link rel="stylesheet" href="css/stylews.css">
+
 >>>>>>> 7055f7c70de8f7653732ff872aa2c81e38a97ee9
 	<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.0/css/hover-min.css">

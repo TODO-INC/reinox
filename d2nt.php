@@ -5,7 +5,7 @@
     <h1>This is Jumbotron inside container!</h1>        
     <p>Jumbotron specifies a big box for getting extra attention to some special content or information.</p>  
   </div>   -->
-  <link rel="stylesheet" href="css/style1.css">
+   <link rel="stylesheet" href="css/style1.css">
   <aside class="profile-card">
   <header>
     <!-- here’s the avatar -->
