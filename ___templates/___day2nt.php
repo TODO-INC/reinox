@@ -3,9 +3,9 @@
     <!-- <br> -->
     <h3>Non Technical Events</h3>
 </div>
-<div  class="d-flex justify-content-center">
+<div  class="d-flex justify-content-center w-75 center">
   <div class="col-md-6">
-    <div class="card mb-3">
+    <div class="card mb-5">
       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -16,25 +16,25 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="___sources/1.png" class="d-block w-100">
+            <img src="___sources/picture1.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
               <h5>Dare to Prove</h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/2.png" class="d-block w-100">
+            <img src="___sources/picture2.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
               <h5>Shout in Silence</h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/3.png" class="d-block w-100">
+            <img src="___sources/picture3.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
               <h5>Screen Masters</h5>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/4.png" class="d-block w-100">
+            <img src="___sources/picture4.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
               <h5>Shutter Up</h5>
             </div>
