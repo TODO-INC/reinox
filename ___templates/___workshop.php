@@ -1,6 +1,5 @@
 <div class = "center">
     <h2>DAY 1 : (10/02/2023)</h2>
-    <!-- <br> -->
 </div>
 <div class="main-container col-md-12 d-flex justify-content-center ">
 <div  class="d-flex justify-content-center">
@@ -26,3 +25,21 @@
                         <!-- <a href='https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-green rot-135">Click to register</a>
                     </div> -->
                         <!-- <button class="btn btn-primary" onclick="window.location.href = '_d1ws.php';"type="button">Click here to know more</button> -->
+<!-- <div class="center">
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+            <a href="">
+                <div class="card-flyer">
+                    <div class="text-box">
+                        <div class="image-box">
+                            <img src="https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg" alt="" />
+                        </div>
+                        <div class="text-container">
+                            <h6>Title 01</h6>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div> -->

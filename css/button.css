@@ -112,7 +112,7 @@
   /*END ROTATE*/
   
   
-  @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+  /* @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
   
   
   
@@ -124,9 +124,9 @@
   
   .description {
     font-size: 35px;
-  }
+  } */
   
-  .btn {
+  /* .btn {
     border: none;
     display: block;
     text-align: center;
@@ -142,9 +142,9 @@
     padding: 15px 50px;
     margin: 0 auto;
     box-shadow: 0 5px 15px rgba(0,0,0,0.20);
-  }
+  } */
   
-  .btn span {
+  /* .btn span {
     position: relative; 
     z-index: 1;
   }
@@ -172,4 +172,4 @@
   .link {
     font-size: 20px;
     margin-top: 30px;
-  }
+  } */
