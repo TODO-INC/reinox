@@ -66,7 +66,6 @@
   font-weight: bold;
   transition: all .5s;
   text-decoration: none;
-  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   }
   .button:hover {

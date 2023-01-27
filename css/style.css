@@ -1,6 +1,13 @@
 html{
 	scroll-behavior: smooth;
 }
+body{
+	padding-bottom:0;
+}
+.footer-main {
+	position: absolute;
+	bottom: 0;
+}
 
 .center {
     text-align: center;
@@ -216,7 +223,7 @@ section {
 	.footer-distributed .footer-right{
 		display: block;
 		width: 100%;
-		margin-bottom: 40px;
+		margin-bottom: 0px;
 		text-align: center;
 	}
 
@@ -233,7 +240,9 @@ section {
 #sidebar {width:100%; }
 
 #footer {width:100%; }
-
+.footer-main{  /* Selects text inside a <p> tag that is inside a .footer <div> */
+   margin-bottom: 0; /* removes default <p> tag margin from the bottom */
+}
 
 .totler{
 	/* background-image: url("../___sources/aiml.jpg"); */
@@ -337,7 +346,7 @@ background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-sv
 background-size: cover;
 } */
 .topt{
-background: url(../___sources/spectrum-gradient.svg) no-repeat center center fixed;
+background: url(../___sources/liquid-cheese.svg) no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -367,6 +376,11 @@ background-color: #00e6f6;
 	background-image: linear-gradient( 135deg, #1f6cab 10%, #00e6f6 100%);
 	
 }
+
+/* .downfoot{
+	background-color: rgba(73,155,234,1);
+    background: -moz-linear-gradient(45deg, rgba(73,155,234,1) 0%, rgba(26,188,156,1) 100%); 
+} */
 
 
 
