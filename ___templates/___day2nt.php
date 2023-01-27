@@ -67,8 +67,8 @@
 
  <div  class="d-flex justify-content-center">
     <div class="col-md-12 d-flex justify-content-center">
-        <div class="card mb-3 d-flex justify-content-center center">
-        <div id="carouselExampleAutoplaying" class="carousel slide " data-bs-ride="carousel" >
+        <div class="card mb-3 d-flex justify-content-center center puls2">
+        <div id="carouselExampleAutoplaying" class="carousel slide  " data-bs-ride="carousel" >
         <div class="carousel-indicators h-25 ">
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
