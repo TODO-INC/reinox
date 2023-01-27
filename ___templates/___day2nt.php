@@ -1,7 +1,6 @@
-<div class = "center">
-    <h2>DAY 2 : (11/02/2023)</h2>
-    <!-- <br> -->
-    <h3>Non Technical Events</h3>
+<!-- <div class = "center"> -->
+    <!-- <h2>DAY 2 : (11/02/2023)</h2>
+    <h3>Non Technical Events</h3> -->
 <!-- </div>
 <div  class="d-flex justify-content-center w-75 center">
   <div class="col-md-6">
@@ -63,7 +62,12 @@
 </div>
 <br>
  -->
-
+ <div class = "center">
+    <!-- <h2>DAY 1 : (10/02/2023)</h2> -->
+    <div class="getz">
+  <h1><span>NON TECHNICAL EVENTS [11th FEB 2k23]</span></h1><br>
+</div>
+</div>
 
  <div  class="d-flex justify-content-center">
     <div class="col-md-12 d-flex justify-content-center">

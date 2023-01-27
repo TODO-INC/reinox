@@ -1,7 +1,16 @@
 <div class = "center">
-    <h2>DAY 2 : (11/02/2023)</h2>
-    <h3>Technical Events</h3> 
+<h2 style="
+    color: yellowgreen;
+">-----</h2>
+
 </div> 
+
+<div class = "center">
+    <!-- <h2>DAY 1 : (10/02/2023)</h2> -->
+    <div class="gety">
+  <h1><span>TECHNICAL EVENTS [11th FEB 2k23]</span></h1>
+</div>
+</div>
 <!-- <div style="text-align:center" >
 <div  class="d-flex justify-content-center w-75 center" >
   <div class="col-sm-6" >
@@ -75,9 +84,9 @@
 </div>
 </div>
 <br> -->
+<br>
 
-
-<div  class="d-flex justify-content-center">
+<div  class="d-flex justify-content-center"><br><br>
     <div class="col-md-12 d-flex justify-content-center">
         <div class="card mb-3 pulse1">
         <div id="carouselExampleAutoplaying" class="carousel slide " data-bs-ride="carousel" >

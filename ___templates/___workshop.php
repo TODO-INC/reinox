@@ -1,6 +1,11 @@
 <div class = "center">
-    <h2>DAY 1 : (10/02/2023)</h2>
+    <!-- <h2>DAY 1 : (10/02/2023)</h2> -->
+    <div class="getx">
+  <h1><span>AIML WORKSHOP[10th FEB 2k23]</span></h1>
 </div>
+</div>
+<br>
+
 <div class="main-container col-md-12 d-flex justify-content-center ">
 <div  class="d-flex justify-content-center">
     <div class="col-md-12 boxed1">
