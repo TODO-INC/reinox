@@ -22,7 +22,7 @@ include "___libs/loads.php";
     </header>
 
     <main>
-    <?php load_temp("___workshop.php"); ?>
+    <?php load_temp("___day1t.php"); ?>
     </main>
 
     <?php load_temp("___footer.php"); ?>
