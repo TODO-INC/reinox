@@ -246,8 +246,8 @@ section {
 }
 
 .totler{
-	/* background-image: url("../___sources/aiml.jpg"); */
-	background-color: #ffffff; 
+	background-image: url(../___sources/pattern-randomized.svg);
+	/* background-image: url(../___sources/pattern-randomized.svg) no-repeat center center fixed; */
 }
 
 .tetra{
@@ -347,7 +347,7 @@ background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/45544/background-sv
 background-size: cover;
 } */
 .topt{
-background: url(../___sources/pattern-randomized.svg) no-repeat center center fixed;
+background: url(../___sources/abstract-timekeeper.svg) no-repeat center center fixed;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
