@@ -1,15 +1,12 @@
-<footer class="footer-distributed">
-			<div class="footer-center">
-				<div>
-				<a href="https://goo.gl/maps/8giEuYmvymr8yP767" target="blank"><i class="bi bi-geo-alt" ></i></a>
-					<p><span>National Engineering College (Autonomous)<span>,K.R.Nagar, Kovilpatti – 628 503.</span> </p>
-				</div>
-				<div>
-					<i class="bi bi-envelope"></i>
-					<p><a href="mailto:reinox2022@gmail.com">reinox2022@gmail.com</a></p>
-				</div>
-			</div>
-			<div class="footer-right justify-content-right">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-7">
+            <a href="https://goo.gl/maps/8giEuYmvymr8yP767" target="blank"><i class="bi bi-geo-alt" ></i>
+			National Engineering College (Autonomous)<span>,K.R.Nagar, Kovilpatti – 628 503.</a>
+			<br><a href="mailto:reinox2022@gmail.com"><i class="bi bi-envelope"></i> reinox2022@gmail.com</a>
+        </div>
+        <div class="col-md-5">
+    <div class="footer-right justify-content-right">
 				<p class="footer-company-about">
 					<span>IT ASSOCIATION</span>
 					<!-- <a href="  #">back to top</a> -->
@@ -27,8 +24,7 @@
 
 				</div>
 
-			</div>
-			<!-- <div class="footer right">
-				<a href="#">Back to top</a>
-			</div> -->
-		</footer>
+			</div>                
+        </div>
+    </div>
+</div>

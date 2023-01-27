@@ -3,6 +3,7 @@ html{
 }
 body{
 	padding-bottom:0;
+	transition:0.5s ease-ins;
 }
 .footer-main {
 	position: absolute;

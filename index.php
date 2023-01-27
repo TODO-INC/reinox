@@ -31,7 +31,7 @@ include "___libs/loads.php";
     </main>
 </div>
 
-    <?php load_temp("___footer.php"); ?>
+    <?php load_temp("__footer.php"); ?>
 
     <script src="../boots/assets/dist/js/bootstrap.bundle.min.js"></script>
 
