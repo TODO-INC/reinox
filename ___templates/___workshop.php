@@ -3,8 +3,8 @@
 </div>
 <div class="main-container col-md-12 d-flex justify-content-center ">
 <div  class="d-flex justify-content-center">
-    <div class="col-md-12">
-        <div class="card mb-3">
+    <div class="col-md-12 boxed1">
+        <div class="card mb-3 ">
             <img src="___sources/aiml.jpg" class="card-img-top" >
             <div class="card-body">
                 <div class="center">
