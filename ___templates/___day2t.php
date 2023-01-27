@@ -102,31 +102,31 @@
           <div class="carousel-item active">
           <img src="___sources/picture1.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Paper Persentation</h5>
+              <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font-size:x-large ;">PAPER PRESENTATION</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="___sources/picture2.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Coder Corner</h5>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">CODER CORNER</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="___sources/picture3.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Tricked Bug</h5>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">TRICKED BUG</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="___sources/picture4.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Brain Teaser</h5>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">>BRAIN TEASER</h3>
             </div>
           </div>
           <div class="carousel-item">
             <img src="___sources/image.png" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h5>Hozan ji</h5>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">HOZAN JI</h3>
             </div>
           </div>
         </div>
