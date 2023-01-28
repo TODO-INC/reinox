@@ -81,26 +81,27 @@
           <br><br><br>
         </div>
         <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="___sources/picture1.png" class="d-block w-100">
+          
+          <div class="carousel-item">
+          <img height="340vw" src="___sources/shout.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Dare to Prove</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:slateblue;font-weight:bold">Shout in Silence</h3>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/picture2.png" class="d-block w-100">
-            <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Shout in Silence</h3>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="___sources/picture3.png" class="d-block w-100">
+          <img height="340vw" src="___sources/film.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
             <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Screen Masters</h3>
             </div>
           </div>
+          <div class="carousel-item active">
+          <img height="340vw" src="___sources/bull.svg" class="d-block w-100">
+            <div class="carousel-caption d-none d-md-block">
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:blueviolet">Dare to Prove</h3>
+            </div>
+          </div>
           <div class="carousel-item">
-            <img src="___sources/picture4.png" class="d-block w-100">
+          <img height="340vw" src="___sources/shutter.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
             <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Shutter Up</h3>
             </div>

@@ -27,8 +27,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Barlow:100i,300,400,600|Permanent+Marker" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
-		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Oswald|Quattrocento" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 
 </head>
 	

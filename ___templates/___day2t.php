@@ -100,33 +100,33 @@
         </div>
         <div class="carousel-inner ">
           <div class="carousel-item active">
-          <img src="___sources/picture1.png" class="d-block w-100">
+          <img height="340vw" src="___sources/pp.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-              <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font-size:x-large ;">PAPER PRESENTATION</h3>
+              <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:tomato;font-weight:bold">PAPER PRESENTATION</h3>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/picture2.png" class="d-block w-100">
+            <img height="340vw" src="___sources/cc.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">CODER CORNER</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:tomato">CODER CORNER</h3>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/picture3.png" class="d-block w-100">
+          <img height="340vw" src="___sources/bug.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">TRICKED BUG</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:tomato">TRICKED BUG</h3>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/picture4.png" class="d-block w-100">
+          <img height="340vw" src="___sources/brain.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">>BRAIN TEASER</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:tomato">BRAIN TEASER</h3>
             </div>
           </div>
           <div class="carousel-item">
-            <img src="___sources/image.png" class="d-block w-100">
+          <img height="340vw" src="___sources/hhj.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">HOZAN JI</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:tomato">HOZAN JI</h3>
             </div>
           </div>
         </div>
