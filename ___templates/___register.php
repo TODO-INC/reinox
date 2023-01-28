@@ -18,7 +18,10 @@
                 <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform" target="_blank" class="reg" style="text-decoration:none;">Click here to register</a> -->
                 <br>
             </div>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform" target="_blank" class="regy" style="text-decoration:none;">Click here to register</a>
+            <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform" target="_blank" class="regy" style="text-decoration:none;">Click here to register</a> -->
+            <button class='glassx glassy' style="background-color:#ff3f85;" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';">Click here to register</button>
+
+            <!--  -->
         </div>
     </div>
   </div>

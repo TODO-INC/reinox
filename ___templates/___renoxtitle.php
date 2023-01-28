@@ -11,7 +11,7 @@
         <!-- <img class="img2" width="200px" height="800px" src="___sources/reinox.png"> -->
         <div class="row">
             <div class="col-md-12 text-center center">
-                <h3 class="animate-charcter" style="font-family: 'Century Gothic',Verdana,sans-serif;"> REINOX</h3>
+                <h3 class="animate-charcter center" style="font-family: 'Century Gothic',Verdana,sans-serif;"> REINOX23</h3>
             </div>
         </div>
     </div>

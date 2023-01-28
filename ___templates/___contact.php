@@ -15,6 +15,8 @@
             <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">S ABISHEK : 63799 26698</p>
             <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">C BHARATHI : 95978 70723</p>
         </div>
+      <br>
+      <br>
     </div>
         </div>
     </div>

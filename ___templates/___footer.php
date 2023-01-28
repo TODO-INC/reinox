@@ -3,7 +3,7 @@
             <div class="col-md-7 col-sm-7 col-xs-7">
                 <a href="https://goo.gl/maps/8giEuYmvymr8yP767" target="blank" class=" text-white" style="font-size:large ; text-decoration:none;" >&nbsp;<i style="font-size:x-large" class="bi bi-geo-alt" ></i>
 				&nbsp;National Engineering College (Autonomous)<span>,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K.R.Nagar, <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kovilpatti – 628 503.</a>
-                <br><a href="mailto:reinox2022@gmail.com" style="font-size:large"  class=" text-white" >&nbsp;<i style="font-size:x-large; text-decoration:none;" class="bi bi-envelope"></i> reinox2022@gmail.com</a>
+                <br><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=reinox2022@gmail.com" style="font-size:large;" target="_blank" class=" text-white" >&nbsp;<i style="font-size:x-large; text-decoration:none;" class="bi bi-envelope"></i> reinox2022@gmail.com</a>
             </div>
             <div class="col-md-5">
         <div class="footer-right footer-jst justify-content-right">
