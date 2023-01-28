@@ -85,13 +85,13 @@
           <div class="carousel-item">
           <img height="340vw" src="___sources/shout.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:slateblue;font-weight:bold">Shout in Silence</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:blueviolet;font-weight:bold">Shout in Silence</h3>
             </div>
           </div>
           <div class="carousel-item">
           <img height="340vw" src="___sources/film.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Screen Masters</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;color:blueviolet">Screen Masters</h3>
             </div>
           </div>
           <div class="carousel-item active">
@@ -103,14 +103,14 @@
           <div class="carousel-item">
           <img height="340vw" src="___sources/shutter.svg" class="d-block w-100">
             <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase">Shutter Up</h3>
+            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;color:blueviolet;">Shutter Up</h3>
             </div>
           </div>
         </div>
         <div class="d-grid gap-2 d-md-block center">
           <br><br>
           <!-- <button class="button2 b-pink rot-135" onclick="window.location.href = 'd2t.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button> -->
-          <button class="button2 b-pink rot-135" onclick="window.location.href = 'd2t.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
+          <button class="button2 b-pink rot-135" onclick="window.location.href = 'd2nt.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
           <!-- <a href='d1ws.php';" style ="font-family: 'Roboto', sans-serif;"class="button2 b-red rot-135">Click here to know more</a> -->
                     </div>
       </div>

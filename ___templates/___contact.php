@@ -8,12 +8,12 @@
             HAVE ANY DOUBTS ?
         </div>
         <div class="card-body">
-            <h3 class="card-title" style="font-size:25px;font-family: 'barlow';font-weight:600;color:hotpink">Staff Coordinators</h3>
-            <p class="card-text" style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;"> Ms.V.ANITHA : 88705 54749</p>
-            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">Ms.Dr.L.JERART JULUS : 97904 42161</p>
-            <h3 class="card-title" style="font-size:25px;font-family: 'barlow';font-weight:600;color:hotpink">Student Coordinators</h3>
-            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">S ABISHEK : 63799 26698</p>
-            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">C BHARATHI : 95978 70723</p>
+            <h3 class="card-title" style="font-size:25px;font-family: 'barlow';font-weight:600;color:orangered;">Staff Coordinators</h3>
+            <p class="card-text" style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">Dr.V.ANITHA(AP/IT) : +91 88705 54749</p>
+            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">Dr.L.JERART JULUS(AP/IT) : +91 97904 42161</p>
+            <h3 class="card-title" style="font-size:25px;font-family: 'barlow';font-weight:600;color:orangered">Student Coordinators</h3>
+            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">Mr.S.ABISHEK : +91 63799 26698</p>
+            <p class="card-text"style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size:15px;color:blue;">Mr.C.BHARATHI : +91 95978 70723</p>
         </div>
       <br>
       <br>
