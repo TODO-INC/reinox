@@ -7,14 +7,15 @@
                 <img width="75" height="75" src="___sources/nec.png">
             </a>
 
-        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-            <h4 style="font-family:verdana;font-size:x-large">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
-        </ul>
+        <!-- <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 center"> -->
+            <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 28px;">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
+        
 
-        <div class="col-md-3 text-end">
+        <!-- <div class="col-md-3 text-end"> -->
         <img width="100" height="30"  src="___sources/header.png" alt="NEC IT">
         <img width="95" height="80"  src="___sources/header-1.png" alt="NEC ITA">
-        </div>
+        </ul>
+        <!-- </div> -->
         </header>
     </div>
 </main>
