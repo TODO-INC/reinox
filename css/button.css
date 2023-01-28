@@ -173,3 +173,27 @@
     font-size: 20px;
     margin-top: 30px;
   } */
+  .reg {
+    position: relative;
+    color: #fff;
+    line-height: 5px;
+    text-decoration: none;
+    border-radius: 5em;
+    padding: 15px 25px;
+    font-size:18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    
+  background: -webkit-linear-gradient(right, #fff018 50%, #FF0000 50%);
+  background: -moz-linear-gradient(right, #fff018 50%, #FF0000 50%);
+  background: -o-linear-gradient(right, #fff018 50%, #FF0000 50%);
+  background: linear-gradient(to left, #fff018 50%, #FF0000 50%);
+    
+      background-size: 200% 100%;
+      background-position: left bottom;
+      transition: all 1s ease;
+  }
+
+  .reg:hover {
+      background-position: right bottom;
+  }

@@ -28,6 +28,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Barlow:100i,300,400,600|Permanent+Marker" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 
 </head>
 	

@@ -14,9 +14,11 @@
                 <h4 style="display: inline-block;font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color:teal;font-weight: bold;">Workshop fee : 100</h4><br>
                 <h4 style="margin-top: -10px;display: inline-block;font-family:Verdana, Geneva, Tahoma, sans-serif;color:teal;font-weight: bold;">Events fee : 150</h4><br>
                 <!-- <button class="btn" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';" type="button" ><span>Click here to register</span></button> -->
-                <button class="btn btn-primary" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';"type="button">Click here to register !</button>
+                <!-- <button class="btn btn-primary" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';"type="button">Click here to register !</button> -->
+                <!-- <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform" target="_blank" class="reg" style="text-decoration:none;">Click here to register</a> -->
                 <br>
             </div>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform" target="_blank" class="regy" style="text-decoration:none;">Click here to register</a>
         </div>
     </div>
   </div>
