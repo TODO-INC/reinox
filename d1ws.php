@@ -7,9 +7,9 @@
         
     
 <div class="card">
-  
-  
-  <p>AI/ML Workshop Topics:</p>
+  <div class="card1">
+    </div>
+    <p>AI/ML Workshop Topics:</p>
  <h4>1.Current and Future trends in Conversational AI</h4>
 <h5>-  P.Sivaguru Srinivas<h5>
 <h4>2. Mathematical modelling of Supervised and unsupervised Learning.</h4>
@@ -64,16 +64,33 @@ h5 {
   text-align : center;
   overflow:hidden;
   border: 1px solid rgba(255, 255, 255, .25);
-  border-radius: 20px;
+  border-radius: 5.2%;
   background-color: rgba(255, 255, 255, 0.45);
   box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
-
   backdrop-filter: blur(15px);
+}
+
+.card1{
+  
+  margin-top:-10%;
+  margin-left:10%;
+  width:600px;
+  height:600px;
+  display: inlint-block;
+  position: absolute;
+  overflow:hidden;
+  border:solid black;
+  opacity:3%;
+  z-index: -1;
+  border-width:0 15px 15px 0;
+  transform: translateY(-40%) rotate(45deg);
+
+
 }
 
 
 p {
-  margin-top: 10%;
+  margin-top: 5%;
   text-transform: uppercase;
   font-family: "Julius Sans One", sans-serif;
   font-weight: bold;

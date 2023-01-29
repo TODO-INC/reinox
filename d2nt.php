@@ -69,6 +69,7 @@ body {
 	grid-template-rows: subgrid;
 	box-shadow: 3px 3px 6px hsla(0, 0%, 0%, 0.426);
 	background-color: rgb(248,248,255,0.5) ;
+	word-spacing:2px;
 }
 h3 {
 	font-size: 2rem;

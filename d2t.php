@@ -1,4 +1,4 @@
-<h1 style="font-family: Julius Sans One, sans-serif;">Day-2 TECHNICAL EVENTS</h1>
+<h1 style="font-family: Julius Sans One, sans-serif; color:#071b53;margin-top:2%">Day-2 TECHNICAL EVENTS</h1>
 <div class="container">
 	<div class="card">
 		<h3 id="relative">Paper Presentation</h3>
@@ -37,31 +37,6 @@
 		</p>
 		
 	</div>
-	<!-- <div class="card">
-		<h3 id="lch">LCH</h3>
-		<p>
-			The lch() functional notation expresses a given color in the LCH color space. It has the same L axis as lab(), but uses polar coordinates C
-			(Chroma) and H (Hue).
-		</p>
-		<p><span class="nolch">No Support For This Browser</span></p>
-	</div>
-	<div class="card">
-		<h3 id="oklch">OKLCH</h3>
-		<p>
-			The oklch() functional notation expresses a given color in the OKLCH color space. It has the same L axis as oklab(), but uses polar
-			coordinates C (Chroma) and H (Hue).
-		</p>
-		<p><span class="nooklch">No Support For This Browser</span></p>
-	</div>
-	<div class="card">
-		<h3 id="oklab">OKLAB</h3>
-		<p>
-			The oklab() functional notation expresses a given color in the Oklab color space, which attempts to mimic how color is perceived by the
-			human eye. The oklab() works with a Cartesian coordinate system on the OKlab color space, the a- and b-axes. If you want a polar color
-			system, chroma and hue, use oklch().
-		</p>
-		<p><span class="nooklab">No Support For This Browser</span></p>
-	</div> -->
 </div>
 <style>
     @import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&family=Rowdies:wght@700&display=swap");
@@ -86,7 +61,6 @@ body {
 	font-family: "Rowdies", sans-serif;
 	font-weight: 700;
 	font-size: 3rem;
-	/* text-shadow: 0.1em 0.1em 0 black; */
 	color: var(--clr_none);
 }
 
@@ -104,7 +78,9 @@ body {
 	border-radius: 5%;
 	grid-template-rows: subgrid;
 	box-shadow: 3px 3px 6px hsla(0, 0%, 0%, 0.426);
-	BACKGROUND-COLOR: ghostwhite;
+	background-color: rgb(248,248,255,0.6) ;	
+	word-spacing:2px;
+	padding:0;
 }
 h3 {
 	font-size: 2rem;
@@ -114,6 +90,7 @@ h3 {
 p {
 	margin-inline: 0.5rem;
 	font-size: 1.1rem;
+	font-family: "cambria", serif;
     font-weight: 900;
 }
 span:is(.norelative, .nomix, .nocontrast, .nohwb, .nolab, .nolch, .nooklch, .nooklab) {
