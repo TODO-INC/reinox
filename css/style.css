@@ -966,6 +966,9 @@ a{
   .card-grids:hover > .cardy:not(:hover) .card__background{
 	filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
   }
+  .card-gridy:hover > .cardy:not(:hover) .card__background{
+	filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+  }
   
   .card__content{
 	left: 0;
