@@ -1,8 +1,8 @@
-<div class="main-container">
+<div class="main-container col-sm-6 col-xs-12 col-md-6 ">
   <div class="cards">
     <div class="card card-3">
       <div class="card__icon"><i class="fas fa-bolt"></i></div>
-      <div class="h-100 p-5 card3bg border rounded-3">
+      <div class="p-5 card3bg border rounded-3">
       <div class="center">
         <div class="card-header " style="font-size:30px;font-family: 'Permanent Marker';color:mediumblue">
             HAVE ANY DOUBTS ?
