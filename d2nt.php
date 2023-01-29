@@ -1,7 +1,7 @@
 	
 <h1 style="font-family: Julius Sans One, sans-serif;color:#071b53;margin-top:2%" class="non">Day-2 NON TECHNICAL EVENTS</h1>
 <div class="container">
-	<div class="card">
+	<div class="card" style="word-spacing:2px;">
 		<h3 id="relative">Dare to Prove</h3>
 		<p>
 			A brain teaser is a form of puzzle that requires thought to solve.It often requires thinking in unconventional ways with given
@@ -77,7 +77,7 @@ p {
 	margin-inline: 0.5rem;
 	font-size: 1.1rem;
     font-weight: 900;
-	font-family: "Quattrocento", serif;
+	font-family: "cambria", serif;
 }
 #relative {
 	color: rgb(from green r g b / 80%);
