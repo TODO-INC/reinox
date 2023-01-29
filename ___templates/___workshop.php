@@ -14,7 +14,7 @@
             <div class="card-body">
                 <div class="center">
                     <!-- <h4 class="card-title">WORKSHOP</h4> -->
-                    <h4 style="font-family:arvo;font-size: x-large;color: rebeccapurple;">Technical Workshop on Artificial Intelligence &amp; Machine Learning</h4>
+                    <h4 style="font-family:arvo;font-size: 4vh;color: rebeccapurple;">Technical Workshop on Artificial Intelligence &amp; Machine Learning</h4>
                     <div class="d-grid gap-2 d-md-block">
                         <button class="button2 b-green rot-135" onclick="window.location.href = 'd1ws.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
                     </div>

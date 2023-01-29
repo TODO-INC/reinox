@@ -7,20 +7,43 @@
                 <li>
                     <img width="100" height="90" src="___sources/neclogo.png">
                 </li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 32px;" class="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
+                    <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 2.5vw;" class="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
                 </li> 
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
                     <img width="105" height="40"  src="___sources/header.png" alt="NEC IT" class="necit">
                 </li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <img width="105" height="90"  src="___sources/itaLogo.png" alt="NEC ITA">
+                    <img width="15vw" height="90vw"  src="___sources/itaLogo.png" alt="NEC ITA" class="necit">
                 </li>
         </ul>
         </header>
     </div>
 </main>
+<!-- <main>
 
+    <div class="overlay">
+        <header>
+            <ul class="listu col-md-3">
+                <li class="item1">
+                    <img src="___sources/neclogo.png" class="logo">
+                </li>
+                <li class="item2">
+                    <p id="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</p>
+                </li> 
+                <li class="item3">
+                    <img src="___sources/header.png" alt="NEC IT" class="necit">
+                </li>
+                <li class="item4">
+                    <img src="___sources/itaLogo.png" alt="NEC ITA" class="ita">
+                </li>
+        </ul>
+        </header>
+    </div>
+</main> -->
 <!-- <header>
 	<div class="headsti">
 	<div class="overlay">

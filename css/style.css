@@ -11,6 +11,7 @@ body{
 }
 
 .center {
+	align-items: center;
     text-align: center;
     margin: auto;
 }
@@ -365,17 +366,14 @@ background-color: #00e6f6;
 .overlay{
 	text-align: center;
 	width: 100%;
-	height: auto;
 	position: relative;
 	overflow: hidden;
-	border-radius: 0 0 15% 15%;
+	border-radius: 0 0 5% 5%;
 	line-height:10;
 	opacity: 85.5%;
 	padding: 0; 
 	margin: 0; 
-	width: 100%;
 	height: 75%;
-	padding: 10px;
 	color: #FFF;
 	text-shadow: 1px 1px 1px #333;
 	background-image: linear-gradient( -135deg, #88d3ce 20%, #5b32cc );
@@ -397,28 +395,27 @@ a{
 
 .animate-charcter
 {
-   text-transform: uppercase;
-  background-image: linear-gradient(
-    -225deg,
-    #054782 0%,
-    #61dff1 29%,
-    #3abc6b 67%,
-    #00e6f6 100%
-  );
-  background-size: auto auto;
-  background-clip: border-box;
-  background-size: 200% auto;
-  color: #fff;
-  background-clip: text;
-  /* text-fill-color: transparent; */
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-      font-size: 16vw;
-	  text-align: center;
-	  justify-content: center;
-	  
+	text-align: center;
+	text-transform: uppercase;
+	background-image: linear-gradient(
+		-225deg,
+		#4203c9 0%,
+		#16acea 29%,
+		#e8d71e 67%,
+		#d71b3b 100%
+		);
+	background-size: auto auto;
+	background-clip: border-box;
+	background-size: 200% auto;
+	color: #fff;
+	background-clip: text;
+	/* text-fill-color: transparent; */
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	animation: textclip 2s linear infinite;
+	display: inline-block;
+	font-size: 15vw;
+	justify-content: center;
     margin: auto;
 }
 
@@ -583,6 +580,7 @@ a{
 		Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 	  font-weight: 900;
 	  height: 10vw;
+	  text-align: center;
 	}
 	
 	.section1 {
@@ -619,7 +617,7 @@ a{
 	justify-content: center;
 	min-height: 10vh;
 	color: #7e00de;
-	font-size: 10px;
+	font-size: 1vw;
 	font-weight: bold;
 	font-family: monospace;
 	letter-spacing: 7px;
@@ -724,45 +722,9 @@ a{
 	background-color: #adebeb;
   }
 
-  /* .regy {
-    position: relative;
-    color: #fff;
-    line-height: 5px;
-    text-decoration: none;
-    border-radius: 5em;
-    padding: 15px 25px;
-    font-size:18px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 100;
-    
-  background: -webkit-linear-gradient(right, #fff018 50%, #FF0000 50%);
-  background: -moz-linear-gradient(right, #fff018 50%, #FF0000 50%);
-  background: -o-linear-gradient(right, #fff018 50%, #FF0000 50%);
-  background: linear-gradient(to left, #fff018 50%, #FF0000 50%);
-    
-      background-size: 200% 100%;
-      background-position: left bottom;
-      transition: all 1s ease;
-  }
-
-  .regy:hover {
-      background-position: right bottom;
-  } */
-
   li{
-	display: inline;
-	padding-right:5%;
-	
+	display: inline;	
   }
-
-  .Dept{
-	position:center;
-	margin-top: 50px;
-  }
-  .necit{
-	margin-top:5px;
-  }
-
 .glassx {
 	background: rgb(255, 255, 255);
 	color: rgb(255, 255, 255);
@@ -798,3 +760,49 @@ a{
   .glassx:hover:before {
 	background-size: 500% 100%;
   }
+
+.item1{
+	width:11%;
+	float:left!important;
+	margin-left:0 !important;
+}
+.item2{
+	width:62.3%;
+	float:left!important;
+	margin-left:0 !important;
+}
+.logo{
+	margin-top:5%;
+	width:70%;
+	margin-bottom: 5%;
+}
+.item3,.item4{
+	width:12%;
+	padding-left: 0;
+	margin-left:0;
+}
+
+#Dept{
+	font-size:2.3vw;
+	float: left;
+	text-align: left;
+	width:100%;
+	font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;
+}
+.necit{
+	margin-top:5%;
+	margin-left:0% !important;
+	float:left !important;
+	width:6.2vw;
+	text-align: right;
+}
+.listu{
+	width: 100% !important;
+}
+.ita{
+	margin-top:1vw;
+	width:6.2vw;
+	padding-left:0;
+	margin-left:3% !important;
+	float: left;
+}
