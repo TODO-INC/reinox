@@ -1,28 +1,35 @@
 <main>
-
-    <div class="b-example-divider"></div>
     <div class="overlay">
-        <header class="d-inline flex-wrap align-items-center justify-content-center justify-content-md-between py-3 d-flex justify-content-center">
-            <ul class="nav col-8 col-md-auto mb-2 justify-content-center mb-md-0 center">
-                <li>
-                    <img width="100vw" height="90" src="___sources/neclogo.png">
+        <header>
+            <ul class="listu col-md-3">
+                <li class="item1">
+                    <img src="___sources/neclogo.png" class="logo">
                 </li>
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-                <li>
-                    <h1 style="font-family: Reem Kufi;" class="Dept">DEPARTMENT of INFORMATION TECHNOLOGY</h1>
+                <li class="item2">
+                    <p style = "font-family: Reem Kufi;"id="Dept">DEPARTMENT of INFORMATION TECHNOLOGY</p>
                 </li> 
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-                <li>
-                    <img width="80vw" height="40"  src="___sources/header.png" alt="NEC IT" class="necit1">
+                <li class="item3">
+                <img src="___sources/header.png" alt="NEC IT" class="necit">
                 </li>
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
-                <li>
-                    <img width="155vw" height="80" src="___sources/itaLogo.png" alt="NEC ITA" class="necit">
+                <li class="item4">
+                    <img src="___sources/itaLogo.png" alt="NEC ITA" class="ita">
                 </li>
         </ul>
         </header>
     </div>
 </main>
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- <main>
 
     <div class="overlay">
