@@ -2,22 +2,22 @@
 
     <div class="b-example-divider"></div>
     <div class="overlay">
-        <header class="d-inline flex-wrap align-items-center justify-content-center justify-content-md-between py-3">
+        <header class="d-inline flex-wrap align-items-center justify-content-center justify-content-md-between py-3 d-flex justify-content-center">
             <ul class="nav col-8 col-md-auto mb-2 justify-content-center mb-md-0 center">
                 <li>
-                    <img width="100" height="90" src="___sources/neclogo.png">
+                    <img width="100vw" height="90" src="___sources/neclogo.png">
                 </li>
                 <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 2.5vw;" class="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
+                    <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 5vh;" class="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
                 </li> 
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <img width="105" height="40"  src="___sources/header.png" alt="NEC IT" class="necit">
+                    <img width="80vw" height="40"  src="___sources/header.png" alt="NEC IT" class="necit1">
                 </li>
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <img width="15vw" height="90vw"  src="___sources/itaLogo.png" alt="NEC ITA" class="necit">
+                    <img width="155vw" height="80" src="___sources/itaLogo.png" alt="NEC ITA" class="necit">
                 </li>
         </ul>
         </header>

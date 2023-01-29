@@ -369,7 +369,7 @@ background-color: #00e6f6;
 	position: relative;
 	overflow: hidden;
 	border-radius: 0 0 5% 5%;
-	line-height:10;
+	line-height:8;
 	opacity: 85.5%;
 	padding: 0; 
 	margin: 0; 
@@ -793,7 +793,14 @@ a{
 	margin-top:5%;
 	margin-left:0% !important;
 	float:left !important;
-	width:6.2vw;
+	width:8vw;
+	text-align: right;
+}
+.necit1{
+	margin-top:5%;
+	margin-left:0% !important;
+	float:left !important;
+	width:6vw;
 	text-align: right;
 }
 .listu{
