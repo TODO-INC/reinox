@@ -5,7 +5,7 @@
         <br>
 <div class="jumbotron myBackground center" style="background-color:transparent;text-align:center">
         <div class="container1 section1 ">
-    <div class="noise">IT ASSOCIATION</div>
+    <div class="noise"><h1 style="font-size:8vw">IT  ASSOCIATION</h1></div><br>
   </div>
         <h3 class="gotham" style="font-family:cursive; text-align:center;color: royalblue;">Proudly Presents</h3>
         <div class="row">
