@@ -7,11 +7,11 @@
                 <li>
                     <img width="100vw" height="90" src="___sources/neclogo.png">
                 </li>
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
-                    <h4 style="font-family: 'Shrikhand', 'Roboto Condensed', sans-serif;font-size: 5vh;" class="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</h4>
+                    <h1 style="font-family: Reem Kufi;" class="Dept">DEPARTMENT of INFORMATION TECHNOLOGY</h1>
                 </li> 
-                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
                 <li>
                     <img width="80vw" height="40"  src="___sources/header.png" alt="NEC IT" class="necit1">
                 </li>

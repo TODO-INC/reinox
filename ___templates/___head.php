@@ -31,6 +31,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Oswald|Quattrocento" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
 
 </head>
 	
