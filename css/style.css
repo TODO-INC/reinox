@@ -978,7 +978,7 @@ a{
   .card__heading{
 	font-family: Reem Kufi;
 	color: var(--text-lighter);
-	font-size: 20px;
+	font-size: 30px;
 	text-shadow: 2px 2px 20px rgba(0,0,0,0.2);
 	line-height: 1.4;
 	word-spacing: 100vw;
