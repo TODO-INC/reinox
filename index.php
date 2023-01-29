@@ -26,8 +26,9 @@ include "___libs/loads.php";
         <?php load_temp("___workshop.php"); ?>
         <?php load_temp("___day2t.php"); ?>
         <?php load_temp("___day2nt.php"); ?>
-        <?php load_temp("___register.php"); ?>
-        <?php load_temp("___contact.php"); ?>
+        <?php load_temp("___regcon.php"); ?>
+        <?php //load_temp("___register.php"); ?>
+        <?php //load_temp("___contact.php"); ?>
     </main>
 </div>
 
