@@ -1,31 +1,5 @@
-<div class = "center">
-    <!-- <h2>DAY 1 : (10/02/2023)</h2> -->
-    <div class="getx">
-  <h1 style="font-family: 'Quattrocento', serif;"><span>WORKSHOP[10th FEB 2k23]</span></h1>
-</div>
-</div>
 <br>
-
-<!-- <div class="main-container col-md-12 d-flex justify-content-center ">
-<div  class="d-flex justify-content-center">
-    <div class="col-md-12 boxed1">
-        <div class="card mb-3 ">
-        <img src="___sources/AI.jpg" class="card-img-top" style="background:cover; width:90%;">
-            <div class="card-body">
-                <div class="center">
-                    <h4 style="font-family:arvo;font-size: 4vh;color: rebeccapurple;">Technical Workshop on Artificial Intelligence &amp; Machine Learning</h4>
-                    <div class="d-grid gap-2 d-md-block">
-                        <button class="button2 b-green rot-135" onclick="window.location.href = 'd1ws.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<br>
-<br> -->
-
+<div class="evetite" style="color: #195190FF;text-shadow: 5px 5px 0px #A2A2A1FF;">DAY 1 - 10th FEB 2k23</div>
 <div class="works">
 <article class="product-card">
   <img class="product-card__image"src="___sources/AI.jpg" />

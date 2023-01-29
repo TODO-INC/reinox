@@ -399,10 +399,8 @@ a{
 	text-transform: uppercase;
 	background-image: linear-gradient(
 		-225deg,
-		#4203c9 0%,
-		#16acea 29%,
-		#e8d71e 67%,
-		#d71b3b 100%
+		#d74eff 0%,
+		#7000ed 100%
 		);
 	background-size: auto auto;
 	background-clip: border-box;
@@ -609,44 +607,6 @@ a{
 	  animation-iteration-count: infinite;
 	  animation-direction: alternate;
 	}
-	
-/*days*/
-.getx{
-	padding: 0;
-	margin: 0;
-	background-color:transparent;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	min-height: 10vh;
-	color: #7e00de;
-	font-size: 1vw;
-	font-weight: bold;
-	font-family: monospace;
-	letter-spacing: 7px;
-	cursor: pointer
-  }
-  .getx h1 span{
-	transition: .5s linear
-  }
-  .getx h1:hover span:nth-child(1){
-	margin-right: 5px
-  }
-  .getx  h1:hover span:nth-child(1):after{
-	content: "'";
-  }
-  .getx  h1:hover span:nth-child(2){
-	margin-left: 30px
-  }
-  .getx  h1:hover span{
-	color: #ff3f85;
-	text-shadow: 0 0 10px #ff3f85,
-				 0 0 20px #ff3f85, 
-				 0 0 40px #ff3f85;
-  }
-
-
-
 
   /*days 1*/
   .gety{
@@ -893,3 +853,174 @@ a{
   .form-button:hover {
 	background-position: -600px 0px;
   }
+
+  /*Event Title*/
+
+  .evetite{
+	font-size: 5rem;
+  text-align: center;
+  font-family: Reem Kufi;
+  font-weight: 700;
+
+}
+
+
+/*day 2 technical*/
+.eve{
+	--text-light: rgba(255,255,255,0.6);
+	--text-lighter: rgba(255,255,255,0.9);
+	--spacing-s: 8px;
+	--spacing-m: 16px;
+	--spacing-l: 24px;
+	--spacing-xl: 32px;
+	--spacing-xxl: 64px;
+	--width-container: 1200px;
+  }
+  
+  .boxer{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  .day2{
+	height: 75vh;
+	font-size: 14px;
+  }
+  .day2x{
+	height: 60vh;
+	font-size: 14px;
+  }
+  .hero-section{
+	background: transparent;
+	height:75vh;
+	align-items: flex-start;
+	display: flex;
+	justify-content: center;
+	padding: var(--spacing-xxl) var(--spacing-l);
+  }
+  .hero-sectionx{
+	background: transparent;
+	height:50vh;
+	align-items: flex-start;
+	display: flex;
+	justify-content: center;
+	padding: var(--spacing-xxl) var(--spacing-l);
+  }
+  
+  .card-grids{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-column-gap: var(--spacing-l);
+	grid-row-gap: var(--spacing-l);
+	max-width: var(--width-container);
+	width: 100%;
+  }
+  
+  @media(min-width: 5px){
+	.card-grids{
+	  grid-template-columns: repeat(2, 1fr); 
+	}
+  }
+  
+  @media(min-width: 960px){
+	.card-grids{
+	  grid-template-columns: repeat(5, 1fr); 
+	}
+  }
+  
+  .cardy{
+	list-style: none;
+	position: relative;
+  }
+  
+  .cardy:before{
+	content: '';
+	display: block;
+	padding-bottom: 150%;
+	width: 100%;
+  }
+  
+  .card__background{
+	background-size: cover;
+	background-position: center;
+	border-radius: var(--spacing-l);
+	bottom: 0;
+	filter: brightness(0.75) saturate(1.2) contrast(0.85);
+	left: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transform-origin: center;
+	trsnsform: scale(1) translateZ(0);
+	transition: 
+	  filter 200ms linear,
+	  transform 200ms linear;
+  }
+  
+  .cardy:hover .card__background{
+	transform: scale(1.05) translateZ(0);
+  }
+  
+  .card-grids:hover > .cardy:not(:hover) .card__background{
+	filter: brightness(0.5) saturate(0) contrast(1.2) blur(20px);
+  }
+  
+  .card__content{
+	left: 0;
+	padding: var(--spacing-l);
+	position: absolute;
+	top: 0;
+  }
+  
+  .card__heading{
+	font-family: Reem Kufi;
+	color: var(--text-lighter);
+	font-size: 20px;
+	text-shadow: 2px 2px 20px rgba(0,0,0,0.2);
+	line-height: 1.4;
+	word-spacing: 100vw;
+  }
+
+  .card-gridy{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-column-gap: var(--spacing-l);
+	grid-row-gap: var(--spacing-l);
+	max-width: var(--width-container);
+	width: 100%;
+  }
+  
+  @media(min-width: 5px){
+	.card-gridy{
+	  grid-template-columns: repeat(2, 1fr); 
+	}
+  }
+  
+  @media(min-width: 960px){
+	.card-gridy{
+	  grid-template-columns: repeat(4, 1fr); 
+	}
+  }
+
+  /*events head*/
+  .headerx {
+	font-family: Reem Kufi;
+	font-size: 6rem;
+	font-weight:  270;
+	letter-spacing: 3px;
+	text-align: center;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-animation: hue 10s infinite linear;
+}
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  to {
+    -webkit-filter: hue-rotate(-360deg);
+  }
+}
