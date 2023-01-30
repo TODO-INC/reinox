@@ -1,5 +1,5 @@
 <div class="fluid-container center d2t">
-  <section>
+  <div >
   <div class="evetite" style="color: #2C5F2D;text-shadow: 5px 5px 0px #97BC62FF;">DAY 2 - 11th FEB 2k23</div>
   <h1 class="headerx" style="color: #9c00ff;background-image: -webkit-linear-gradient(92deg, #13ffff, #ac00ff);">Technical events</h1>
   
@@ -77,26 +77,24 @@
           </div>
         </a>
       </div>
-          
       <div class="col-md-2 col-sm-4 col-xs-6 center">
         <a class="cardy" href="#">
+          <div class="card__background" style="background-image: url(___sources/nt4.png)"></div>
           <div class="card__content">
-              <div class="card__background" style="background-image: url(___sources/nt3.png)"></div>
-              <p class="card__heading">Shutter Up</p>
-            </div>
+            <p class="card__heading">Shutter Up</p>
+          </div>
         </a>
       </div>
-            
       <div class="col-md-2 col-sm-4 col-xs-6 center">
         <a class="cardy" href="#">
+          <div class="card__background" style="background-image: url(___sources/nt3.png)"></div>
           <div class="card__content">
-            <div class="card__background" style="background-image: url(___sources/nt4.png)"></div>
             <p class="card__heading">Screen Master</p>
           </div>
         </a>
       </div>
 
 
-
     </div>
-  </section>
+</div>
+</div>
