@@ -1,7 +1,7 @@
 <div class="fluid-container center d2t">
   <div >
-  <div class="evetite" style="color: #2C5F2D;text-shadow: 5px 5px 0px #97BC62FF;">DAY 2 - 11th FEB 2k23</div>
-  <h1 class="headerx" style="color: #9c00ff;background-image: -webkit-linear-gradient(92deg, #13ffff, #ac00ff);">Technical events</h1>
+  <div class="evetite" style="color: #101820ff;text-shadow: 5px 5px 0px #f2aa4cff;">DAY 2 - 11th FEB 2k23</div>
+  <h1 class="headerx" style="color: #9c00ff;background-image: -webkit-linear-gradient(92deg, #13ffff, #ac00ff);">Technical events</h1><br>
   
     <div class="row eve card-grids hero-sectionx center">
       <div class="col-md-2 col-sm-4 col-xs-6 width-99 center">
@@ -14,7 +14,7 @@
       </div>
     
     
-      <div class="col-md-2 col-sm-4 col-xs-6 width-99 center">
+      <div class="col-md-2 col-sm-4  width-99 center">
         <a class="cardy" href="#">
         <div class="card__background" style="background-image: url(___sources/t2.png)"></div>
         <div class="card__content">
@@ -58,7 +58,7 @@
 
 
     <div class="row eve hero-sectionx card-grids center">
-  <h1 class="headerx " style="color: #2637ff;background-image: -webkit-linear-gradient(92deg, #00ff58, #2637ff);">Non Technical events</h1>      
+ <br> <h1 class="headerx " style="color: #2637ff;background-image: -webkit-linear-gradient(92deg, #00ff58, #2637ff);">Non Technical events</h1>      
 
       <div class="col-md-2 col-sm-4 col-xs-6 center">
         <a class="cardy" href="#">
@@ -93,8 +93,7 @@
           </div>
         </a>
       </div>
-
-
     </div>
 </div>
 </div>
+<br><br>

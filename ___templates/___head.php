@@ -20,16 +20,9 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">  
-	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Barlow:100i,300,400,600|Permanent+Marker" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Shrikhand" rel="stylesheet">
-	<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
-	<link href="https://fonts.googleapis.com/css?family=Oswald|Quattrocento" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> 
 	<link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
-	<!-- <link href='https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap' rel='stylesheet'> -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet" />
 	
 </head>
 	
