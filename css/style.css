@@ -864,63 +864,20 @@ a{
 .eve{
 	--text-light: rgba(255,255,255,0.6);
 	--text-lighter: rgba(255,255,255,0.9);
-	--spacing-s: 8px;
-	--spacing-m: 16px;
-	--spacing-l: 24px;
-	--spacing-xl: 32px;
-	--spacing-xxl: 64px;
 	position: relative;
-	--width-container: 100%;
-	border: 0;
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-  }
-  
-  .day2{
-	height: 75vh;
-	font-size: 14px;
-  }
-  .day2x{
-	height: 60vh;
-	font-size: 14px;
-  }
-  .hero-section{
+}
+.hero-section{
 	background: transparent;
-	height:75vh;
-	align-items: flex-start;
-	display: flex;
+	display: block;
 	justify-content: center;
-	/* padding: var(--spacing-xxl) var(--spacing-l); */
-  }
-  .hero-sectionx{
-	background: transparent;
-	height:70vh;
-	align-items: flex-start;
-	display: flex;
-	justify-content: center;
-	/* padding: var(--spacing-xxl) var(--spacing-l); */
-  }
-  
+	position: relative;
+	padding: 64px 24px;
+  }  
   .card-grids{
 	display: grid;
 	grid-template-columns: repeat(1, 1fr);
-	grid-column-gap: var(--spacing-l);
-	grid-row-gap: var(--spacing-l);
-	/* max-width: var(--width-container); */
-	width: 100%;
-  }
-  
-  @media(min-width: 5px){
-	.card-grids{
-	  grid-template-columns: repeat(2, 1fr); 
-	}
-  }
-  
-  @media(min-width: 960px){
-	.card-grids{
-	  grid-template-columns: repeat(5, 1fr); 
-	}
+	grid-column-gap: 24px;
+	grid-row-gap: 24px;
   }
   
   .cardy{
@@ -938,7 +895,7 @@ a{
   .card__background{
 	background-size: cover;
 	background-position: center;
-	border-radius: var(--spacing-l);
+	border-radius: 24px;
 	bottom: 0;
 	filter: brightness(0.75) saturate(1.2) contrast(0.85);
 	left: 0;
@@ -965,7 +922,7 @@ a{
   
   .card__content{
 	left: 0;
-	padding: var(--spacing-l);
+	padding: 24px;
 	position: absolute;
 	top: 0;
   }
@@ -983,25 +940,9 @@ a{
   }
 
   .card-gridy{
-	display: grid;
-	grid-template-columns: repeat(1, 1fr);
-	grid-column-gap: var(--spacing-l);
-	grid-row-gap: var(--spacing-l);
-	/* max-width: var(--width-container); */
+	grid-column-gap: 24px;
+	grid-row-gap: 24px;
 	width: 100%;
-  }
-  
-  @media(min-width: 5px){
-	.card-gridy{
-	  grid-template-columns: repeat(2, 1fr); 
-	}
-  }
-  
-  @media(min-width: 960px){
-	.card-gridy{
-	  grid-template-columns: repeat(2, 1fr); 
-	  width: 100%;
-	}
   }
   /*events head*/
   .headerx {
@@ -1073,12 +1014,6 @@ a{
     background-color: rgba(0, 0, 0, 0.56);
     border-radius: 6px;
 }
-
-.d2nt{
-	padding-top:5%;
-	position: relative;
-}
 .d2t{
-	padding-bottom: 5%;
 	position: relative;
 }
