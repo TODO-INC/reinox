@@ -53,6 +53,7 @@
         </div>
     </div>
 </div> -->
+<div class="conatiner">
 <div class="day2 eve boxer">
 <section class="hero-section">
   <div class="card-gridy">
@@ -84,4 +85,5 @@
   <div>
 </section>
   </div>
+</div>
   <br><br><br>

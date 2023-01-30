@@ -52,7 +52,7 @@
     </div>
 </div> -->
 
-
+<div class="container">
 <div class="day2x eve boxer">
 <section class="hero-sectionx">
   <div class="card-grids">
@@ -90,4 +90,5 @@
   <div>
 </section>
   </div>
+</div>
   <br><br>
