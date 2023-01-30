@@ -1,64 +1,12 @@
 
-<!-- <div class = "center">
-    <div class="getz">
-  <h1><span>NON TECHNICAL EVENTS [11th FEB 2k23]</span></h1><br>
-</div>
-</div> -->
+<!-- <div class="container">
+<div class="col-md-12 col-sm-12 col-xs-12 center d2nt">
 <h1 class="headerx" style="color: #2637ff;background-image: -webkit-linear-gradient(92deg, #00ff58, #2637ff);">Non Technical events</h1>
-
- <!-- <div  class="d-flex justify-content-center">
-    <div class="col-md-12 d-flex justify-content-center">
-        <div class="card mb-3 d-flex justify-content-center center puls2">
-        <div id="carouselExampleAutoplaying" class="carousel slide  " data-bs-ride="carousel" >
-        <div class="carousel-indicators h-25 ">
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-          <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
-          <br><br><br>
-        </div>
-        <div class="carousel-inner">
-          
-          <div class="carousel-item">
-          <img height="340vw" src="___sources/shout.svg" class="d-block w-100">
-            <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:blueviolet;font-weight:bold">Shout in Silence</h3>
-            </div>
-          </div>
-          <div class="carousel-item">
-          <img height="340vw" src="___sources/film.svg" class="d-block w-100">
-            <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;color:blueviolet">Screen Masters</h3>
-            </div>
-          </div>
-          <div class="carousel-item active">
-          <img height="340vw" src="___sources/bull.svg" class="d-block w-100">
-            <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;font: size 90px ;color:blueviolet">Dare to Prove</h3>
-            </div>
-          </div>
-          <div class="carousel-item">
-          <img height="340vw" src="___sources/shutter.svg" class="d-block w-100">
-            <div class="carousel-caption d-none d-md-block">
-            <h3 style="font-family:'Grand Hotel',cursive;text-transform: uppercase;color:blueviolet;">Shutter Up</h3>
-            </div>
-          </div>
-        </div>
-        <div class="d-grid gap-2 d-md-block center">
-          <br><br>
-          <
-          <button class="button2 b-pink rot-135" onclick="window.location.href = 'd2nt.php';"type="button" target="blank"style ="font-family: 'Roboto', sans-serif;">Click here to know more</button>
-                    </div>
-      </div>
-        </div>
-    </div>
-</div> -->
-<div class="conatiner">
-<div class="day2 eve boxer">
-<section class="hero-section">
-  <div class="card-gridy">
-    <a class="cardy" href="#">
-      <div class="card__background" style="background-image: url(___sources/nt2.png)"></div>
+  <div class="eve boxer">
+    <section class="hero-section">
+      <div class="card-gridy">
+        <a class="cardy" href="#">
+          <div class="card__background" style="background-image: url(___sources/nt2.png)"></div>
       <div class="card__content">
         <h2 class="card__heading">Shout in Silence</h2>
       </div>
@@ -82,8 +30,27 @@
       </div>
     </a>
     
-  <div>
-</section>
+      </section>
+    </div>
+  </div>
+</div> -->
+
+
+<div class="container d-flex center ">
+  
+  <div class="row">
+    <h1 class="headerx " style="color: #2637ff;background-image: -webkit-linear-gradient(92deg, #00ff58, #2637ff);">Non Technical events</h1>
+    <div class="col-md-4">
+
+    </div>
+
+    <div class="col-md-4">
+
+    </div>
+
+    <div class="col-md-4">
+
+    </div>
+
   </div>
 </div>
-  <br><br><br>

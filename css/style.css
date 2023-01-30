@@ -45,7 +45,7 @@ body{
 section {
 	width: 100%;
 	display: inline-block;
-	background: #333;
+	/* background: #333; */
 	height: 50vh;
 	text-align: center;
 	font-size: 22px;
@@ -773,7 +773,6 @@ a{
 /*workshop*/
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap");
 .works{
-	/* height: 500vh; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -781,7 +780,6 @@ a{
 	margin: 0;
   }
   .product-card {
-	/* max-width: 45rem; */
 	width:600px;
 	height: 300px;
 	border-color: black;
@@ -798,7 +796,6 @@ a{
 	content: "";
 	width: 50%;
 	height: 140%;
-	/* background: #b9adda; */
 	transform: rotate(-38deg);
 	left: -18%;
 	top: 8%;
@@ -872,10 +869,8 @@ a{
 	--spacing-l: 24px;
 	--spacing-xl: 32px;
 	--spacing-xxl: 64px;
-	--width-container: 1200px;
-  }
-  
-  .boxer{
+	position: relative;
+	--width-container: 100%;
 	border: 0;
 	margin: 0;
 	padding: 0;
@@ -896,15 +891,15 @@ a{
 	align-items: flex-start;
 	display: flex;
 	justify-content: center;
-	padding: var(--spacing-xxl) var(--spacing-l);
+	/* padding: var(--spacing-xxl) var(--spacing-l); */
   }
   .hero-sectionx{
 	background: transparent;
-	height:50vh;
+	height:70vh;
 	align-items: flex-start;
 	display: flex;
 	justify-content: center;
-	padding: var(--spacing-xxl) var(--spacing-l);
+	/* padding: var(--spacing-xxl) var(--spacing-l); */
   }
   
   .card-grids{
@@ -912,7 +907,7 @@ a{
 	grid-template-columns: repeat(1, 1fr);
 	grid-column-gap: var(--spacing-l);
 	grid-row-gap: var(--spacing-l);
-	max-width: var(--width-container);
+	/* max-width: var(--width-container); */
 	width: 100%;
   }
   
@@ -930,7 +925,7 @@ a{
   
   .cardy{
 	list-style: none;
-	position: relative;
+	justify-content: center;
   }
   
   .cardy:before{
@@ -951,7 +946,7 @@ a{
 	right: 0;
 	top: 0;
 	transform-origin: center;
-	trsnsform: scale(1) translateZ(0);
+	transform: scale(1) translateZ(0);
 	transition: 
 	  filter 200ms linear,
 	  transform 200ms linear;
@@ -977,9 +972,12 @@ a{
   
   .card__heading{
 	font-family: Reem Kufi;
-	color: var(--text-lighter);
-	font-size: 30px;
-	text-shadow: 2px 2px 20px rgba(0,0,0,0.2);
+	color: #fff;
+	padding: auto;
+	text-align: center;
+	margin: 0;
+	font-size: 120%;
+	text-shadow: 2px 2px 2px rgba(0,0,0);
 	line-height: 1.4;
 	word-spacing: 100vw;
   }
@@ -989,7 +987,7 @@ a{
 	grid-template-columns: repeat(1, 1fr);
 	grid-column-gap: var(--spacing-l);
 	grid-row-gap: var(--spacing-l);
-	max-width: var(--width-container);
+	/* max-width: var(--width-container); */
 	width: 100%;
   }
   
@@ -1001,10 +999,10 @@ a{
   
   @media(min-width: 960px){
 	.card-gridy{
-	  grid-template-columns: repeat(4, 1fr); 
+	  grid-template-columns: repeat(2, 1fr); 
+	  width: 100%;
 	}
   }
-
   /*events head*/
   .headerx {
 	font-family: Reem Kufi;
@@ -1014,10 +1012,10 @@ a{
 	text-align: center;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	-webkit-animation: hue 10s infinite linear;
+	animation: hue 10s infinite linear;
 }
 
-@-webkit-keyframes hue {
+@keyframes hue {
   from {
     -webkit-filter: hue-rotate(0deg);
   }
@@ -1072,10 +1070,15 @@ a{
     display: block;
     left: 0;
     top: 0;
-    table: "";
     background-color: rgba(0, 0, 0, 0.56);
     border-radius: 6px;
 }
 
-/*BUTTONS
------------------------------------------------------------------------ /*
+.d2nt{
+	padding-top:5%;
+	position: relative;
+}
+.d2t{
+	padding-bottom: 5%;
+	position: relative;
+}
