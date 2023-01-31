@@ -464,7 +464,6 @@ display: inline;
 	background-position: center;
 	border-radius: 24px;
 	bottom: 0;
-	filter: brightness(0.75) saturate(1.2) contrast(0.85);
 	left: 0;
 	position: absolute;
 	right: 0;
