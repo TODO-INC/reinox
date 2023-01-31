@@ -11,7 +11,7 @@
                             <h4 style="display: inline-block;font-family:Reem Kufi;font-style:italic;color:whitesmoke">perhead</h4><br>
                             </div>
                             <h4 style="display: inline-block;font-family:Reem Kufi;font-style:italic;color:whitesmoke">Workshop fee : ₹100/- </h4><br>
-                            <h4 style="display: inline-block;font-family:Reem Kufi;font-style:italic;color:whitesmoke">Events fee : ₹150/- </h4><br>
+                            <h4 style="display: inline-block;font-family:Reem Kufi;font-style:italic;color:whitesmoke">Events fee : ₹150/- </h4>
                             <button class='glassx glassy' style="background-color:#ff3f85;" onclick="window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform';">Click here to register</button>
                 
                     </div>
