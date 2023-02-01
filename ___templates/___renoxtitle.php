@@ -4,7 +4,7 @@
     <div class ="topt ">
 <div class="jumbotron myBackground center" style="background-color:transparent;text-align:center">
         <div class="container">
-    <div class="noise"><h1 style="font-size:7.5vw;font-family:Reem Kufi;">IT  ASSOCIATION</h1></div><br>
+    <div class="noise"><p style="font-size:7vw;font-family:Reem Kufi;">IT ASSOCIATION</p></div><br>
 </div>
         <h3 class="gotham" style="font-family:Reem Kufi;text-align:center;color: royalblue;font-style:italic">Proudly Presents</h3>
         <div class="row">
