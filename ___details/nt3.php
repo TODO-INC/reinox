@@ -131,7 +131,7 @@ core styles
   border-radius: var(--timelineCardBorderRadius, 2px);
   border-left: var(--timelineCardBorderLeftWidth, 3px) solid var(--timelineCardBorderLeftColor, var(--uiTimelineMainColor));
   box-shadow: var(--timelineCardBoxShadow, 0 1px 3px 0 rgba(0, 0, 0, .12), 0 1px 2px 0 rgba(0, 0, 0, .24));
-  background-color: var(--timelineCardBackgroundColor, #fff);
+  background-color: #f0f0f0;
 }
 
 
@@ -211,7 +211,9 @@ SKIN
   left: -50%;
   z-index: -1;
 }
-
+.timeline-group{
+  background-color: #222;
+}
 /*
 =====
 SETTINGS
@@ -227,8 +229,9 @@ DEMO
 */
 
 body{
-  color: #222;
-  background-color:#F2AA4CFF;
+
+  background-image:url(../___sources/_nt3.jpg);
+  background-size: cover;
   margin: 0;
   display: flex;
   flex-direction: column;

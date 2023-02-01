@@ -215,8 +215,9 @@ SKIN
 
 
 body{
-  color: #222;
-  background-color:#EA738DFF;
+
+  background-image:url(../___sources/_nt2.jpg);
+  background-size: cover;
   margin: 0;
   display: flex;
   flex-direction: column;

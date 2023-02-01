@@ -228,8 +228,9 @@ DEMO
 */
 
 body{
-  color: #222;
-  background-color:#76528BFF;
+
+  background-image:url(../___sources/_nt4.jpg);
+  background-size: cover;
   margin: 0;
   display: flex;
   flex-direction: column;

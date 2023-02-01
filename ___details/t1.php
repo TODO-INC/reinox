@@ -180,7 +180,7 @@ SKIN
 */
 
 .timeline{
-  --uiTimelineMainColor: var(--timelineMainColor, #222);
+  --uiTimelineMainColor: var(--timelineMainColor, limegreen);
   --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
 
   border-left: var(--timelineLineWidth, 3px) solid var(--timelineLineBackgroundColor, var(--uiTimelineMainColor));
@@ -237,7 +237,9 @@ DEMO
 */
 
 body{
-  background-color:#00539CFF;
+  background-image:url(../___sources/_t1.jpg);
+  background-size: cover;
+  /* background-color:#00539CFF; */
   margin: 0;
   display: flex;
   flex-direction: column;

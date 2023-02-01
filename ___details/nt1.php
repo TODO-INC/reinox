@@ -228,10 +228,9 @@ DEMO
 */
 
 body{
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Open Sans, Ubuntu, Fira Sans, Helvetica Neue, sans-serif;
-  color: #222;
+  background-image:url(../___sources/_nt1.jpg);
+  background-size: cover;
 
-  background-color:#00A4CCFF;
   margin: 0;
   display: flex;
   flex-direction: column;

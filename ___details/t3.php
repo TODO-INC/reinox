@@ -232,7 +232,8 @@ DEMO
 */
 
 body{
-  background-color:#00B1D2FF;
+  background-image:url(../___sources/_t3.jpg);
+  background-size: cover;
   margin: 0;
   display: flex;
   flex-direction: column;

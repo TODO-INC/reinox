@@ -26,12 +26,13 @@
           <header class="card__header">
           </header>
           <div class="card__content">
-            <p>&#x2022;Total members allowed for a team - maximum 3 members.</p>
+            <p>&#x2022;Per team - maximum 3 members.</p>
             <p>&#x2022;The presentation should be compatible MS powerpoint (.pptx)</p>
             <p>&#x2022;Presenters has 7 minutes for presentation and 3 minutes for question and answer.</p>
             <p>&#x2022;Deadline  for submission of the paper : 08/02/2023.</p>
-            <p>&#x2022;Presenter request submit the paper in given mail ID (reionx2022@gmail.com)</p>
-            <p>&#x2022;The format of the paper must be in the given format(Template).</p>
+            <p>&#x2022;Presenter requested to submit the paper to given mail ID (reinox2022@gmail.com)</p>
+            <p>&#x2022;The format of the paper must be in the given format(Template).</p><br>
+            <a href="Template.pdf" style="font-style:italic;">Check here for template</a>
             
           </div>
         </div>
@@ -238,7 +239,8 @@ DEMO
 */
 
 body{
-  background-color:#078282FF;
+  background-image:url(../___sources/_t.jpg);
+  background-size: cover;
   margin: 0;
   display: flex;
   flex-direction: column;
