@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<link rel="shortcut icon" type="image/x-icon" href="../___sources/R.ico" />
+    <title>REINOX</title>
   <link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
   </head>
 	<body>
@@ -239,7 +241,6 @@ DEMO
 body{
   background-image:url(../___sources/_t1.jpg);
   background-size: cover;
-  /* background-color:#00539CFF; */
   margin: 0;
   display: flex;
   flex-direction: column;
@@ -257,7 +258,7 @@ p:last-child{
 
 .page{
   max-width: 47rem;
-  padding: 5rem 2rem 3rem;
+  padding: 3%;
   margin-left: auto;
   margin-right: auto;
 }

@@ -503,7 +503,6 @@ display: inline;
 /*events head*/
 .headerx {
 	font-family: Reem Kufi;
-	font-size: 6rem;
 	font-weight:  270;
 	letter-spacing: 3px;
 	text-align: center;
@@ -583,10 +582,13 @@ display: inline;
 	filter: drop-shadow(-1.50px -1.5px 1px #fff);
 
 }
-
 @media  only screen and (min-width:443px) {
 .card__heading{
 	font-size: 180%;
+}
+.headerx{
+	font-size: 6rem;
+
 }
 	
 }

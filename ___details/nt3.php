@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
+  <title>REINOX</title>
+	<link rel="shortcut icon" type="image/x-icon" href="../___sources/R.ico" />
+
   <link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
   </head>
 	<body>

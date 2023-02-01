@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<link rel="shortcut icon" type="image/x-icon" href="../___sources/R.ico" />
+    <title>REINOX</title>
   <link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
   </head>
 	<body>
@@ -258,7 +260,7 @@ p:last-child{
 
 .page{
   max-width: 47rem;
-  padding: 5rem 2rem 3rem;
+  padding: 3%;
   margin-left: auto;
   margin-right: auto;
 }
