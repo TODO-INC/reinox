@@ -1,4 +1,4 @@
-<div class="fluid-container center d2t">
+<div class="container center d2t">
   <div >
   <div class="evetite" style="color: #101820ff;text-shadow: 5px 5px 0px #f2aa4cff;">DAY 2 - 11th FEB 2k23</div><br><br>
   <h2 class="headerx" style="color: #9c00ff;background-image: -webkit-linear-gradient(92deg, #13ffff, #ac00ff);">TECHNICAL EVENTS</h2><br><br>
