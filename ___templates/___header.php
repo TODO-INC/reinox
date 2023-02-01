@@ -3,7 +3,7 @@
         <header>
             <ul class="listu  col-12 col-md-auto mb-2 justify-content-center mb-md-0">
                 <li class="item1">
-                    <img src="___sources/Nec_L.jpeg" class="logo">
+                    <img src="___sources/neclogo.png" class="logo">
                 </li>
                 
                 <li class="item2">
