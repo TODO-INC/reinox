@@ -265,7 +265,7 @@ display: inline;
 .item2{
 	width:62.3%;
 	float:left!important;
-	margin-left:6% !important;
+	margin-left:5% !important;
 }
 .logo{
 	margin-top:2%;
@@ -280,7 +280,7 @@ display: inline;
 }
 
 #Dept{
-	font-size:2.61vw;
+	font-size:2.3vw;
 	float: left;
 	text-align:start;
 	width:100%;
