@@ -7,7 +7,7 @@
   <div class="product-card__content">
     <h1 class="product-card__title center"><br>WORKSHOP</h1>
     <p class="product-card__text">Technical Workshop on Artificial Intelligence &amp; Machine Learning</p>
-      <button class="form-button" onclick="window.location.href = '#';"type="button" target="blank">Click here to know more</button>
+      <button class="form-button" onclick="window.location.href = '___details/workshop.php';"type="button" target="blank">Click here to know more</button>
   </div>
   </div>
 <br><br>
