@@ -7,7 +7,7 @@
 	<title>REINOX</title>
 
 	<!-- Core CSS -->
-	<link rel="shortcut icon" type="image/x-icon" href="___sources/r.png" />
+	<link rel="shortcut icon" type="image/x-icon" href="___sources/R.ico" />
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
 	<link rel="stylesheet" href="css/style.css">
 	<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
