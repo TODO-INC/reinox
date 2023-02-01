@@ -7,7 +7,7 @@
                 </li>
                 
                 <li class="item2">
-                    <p style = "font-family: Reem Kufi;"id="Dept">DEPARTMENT of INFORMATION TECHNOLOGY</p>
+                    <p style = "font-family: Reem Kufi;"id="Dept">DEPARTMENT OF INFORMATION TECHNOLOGY</p>
                 </li> 
                 <li class="item3">
                 <img src="___sources/header.png" alt="NEC IT" class="necit">
