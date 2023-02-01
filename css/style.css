@@ -142,10 +142,10 @@ a{
 	text-transform: uppercase;
 	background-image: linear-gradient(
 		-225deg,
-		#0bff96 0%,
-		#00e5e5 25%,
-		#006fff 75%,
-		#1f6cab 100%
+		#1f6cab 0%,
+		#006fff 25%,
+		#00e5e5 75%,
+		#0bff96 100%
 		);
 	background-size: auto auto;
 	background-clip: border-box;

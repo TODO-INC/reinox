@@ -4,7 +4,8 @@
 	<meta name="description" content="">
 	<meta name="author" content="NEC">
 	<meta name="generator" content="Hugo 0.84.0">
-	<title>REINOX!</title>
+	<title>REINOX</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../___sources/R.ico" />
 	<link rel="stylesheet" href="../css/workshop.css">	
     <link href='https://fonts.googleapis.com/css?family=Reem Kufi' rel='stylesheet'>
 </head>
