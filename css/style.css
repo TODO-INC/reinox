@@ -283,7 +283,7 @@ display: inline;
 }
 .necit{
 	margin-top:5%;
-	margin-left:3% !important;
+	margin-left:-2% ;
 	float:left !important;
 	width:6.2vw;
 	filter: drop-shadow(2px 2px 2px #fff);
@@ -295,7 +295,7 @@ display: inline;
 }
 .ita{
 	margin-top:1vw;
-	width:6.3vw;
+	width:7vw;
 	padding-left:0;
 	margin-left:3% !important;
 	float: left;
