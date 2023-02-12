@@ -29,7 +29,7 @@
           <header class="card__header">
           </header>
           <div class="card__content">
-            <p>The theme is yours and the entries must be submitted electronically through <br>the e-mail:reinox2022@gmail.com before 09/02/2023</p>
+            <p>The theme is yours and the entries must be submitted electronically through <br>the e-mail before 09/02/2023</p>
           </div>
         </div>
       </div>

@@ -253,53 +253,23 @@ display: inline;
 }
 
 .item1{
+	margin-top: 2%;
 	width:11%;
 	float:left!important;
 	margin-left:0 !important;
 }
 .item2{
 	width:62.3%;
+	font-size: 30px;
 	float:left!important;
 	margin-left:5% !important;
 }
 .logo{
 	margin-top:2%;
-	width:70%;
+	width:60%;
 	margin-bottom: 5%;
 	filter: drop-shadow(1.50px 1.5px 0.51px #8b8888);
 }
-.item3,.item4{
-	width:12%;
-	padding-left: 0;
-	margin-left:0;
-}
-
-#Dept{
-	font-size:2.3vw;
-	float: left;
-	text-align:start;
-	width:100%;
-}
-.necit{
-	margin-top:5%;
-	margin-left:-2% ;
-	float:left !important;
-	width:6.2vw;
-}
-.listu{
-	text-align: center;
-	align-items: center;
-	width: 100% !important;
-}
-.ita{
-	margin-top:1vw;
-	width:7vw;
-	padding-left:0;
-	margin-left:3% !important;
-	float: left;
-	filter: drop-shadow(1px 1px 0 #e1dbdb);
-}
-
 .glassx {
 	background: rgb(255, 255, 255);
 	color: rgb(255, 255, 255);

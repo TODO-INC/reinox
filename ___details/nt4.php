@@ -30,7 +30,7 @@ Screen Masters is a Reel making event to utilize this expressive platform and ce
           <header class="card__header">
           </header>
           <div class="card__content">
-            <p> All you have to do is submit a 30-60 seconds long reel through the e-mail:reinox2022@gmail.com  before 09/02/2023</p>
+            <p> All you have to do is submit a 30-60 seconds long reel through the e-mail before 09/02/2023</p>
           </div>
         </div>
       </div>

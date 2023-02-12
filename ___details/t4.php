@@ -30,7 +30,7 @@
           </header>
           <div class="card__content">
             <h3>Round-1</h3>
-            <p>&#x2022;Basic Programming questions will be asked using KAHOOT app and the participants are asked to join the test.</p>
+            <p>&#x2022;Basic Programming questions will be asked using app and the participants are asked to join the test.</p>
             <p>&#x2022;Round-1 will be with the take place for 15 minutes.</p>
             <p>&#x2022;Top scorers will be short listed to the next round.</p>
             <h3>Round-2</h3>

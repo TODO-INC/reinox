@@ -3,7 +3,7 @@
 <br>
 <div class="works">
 <article class="product-card col-lg-6 col-md-7x col-sm-7 col-xs-8">
-  <img class="product-card__image"src="___sources/AI.jpg" />
+  <img class="product-card__image"src="___sources/sample.png" />
   <div class="product-card__content center">
     <p class="product-card__title"><br>WORKSHOP</p>
     <p class="product-card__text">Technical Workshop on Artificial Intelligence &amp; Machine Learning</p>

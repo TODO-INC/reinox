@@ -32,9 +32,8 @@
             <p>&#x2022;The presentation should be compatible MS powerpoint (.pptx)</p>
             <p>&#x2022;Presenters has 7 minutes for presentation and 3 minutes for question and answer.</p>
             <p>&#x2022;Deadline  for submission of the paper : 08/02/2023.</p>
-            <p>&#x2022;Presenter requested to submit the paper to given mail ID (reinox2022@gmail.com)</p>
+            <p>&#x2022;Presenter requested to submit the paper to given mail ID</p>
             <p>&#x2022;The format of the paper must be in the given format(Template).</p><br>
-            <a href="Template.pdf" style="font-style:italic;">Check here for template</a>
             
           </div>
         </div>

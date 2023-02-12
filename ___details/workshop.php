@@ -14,12 +14,9 @@
     <h1>TECHNICAL WORKSHOP</h1>
         <h2>AI/ML Workshop Topics:</h2>
         <h4>-> Current and Future trends in Conversational AI</h4>
-        <h5 style="font-style:italic">-  Mr. P.Sivaguru Srinivas<h5>
         <h4>-> Mathematical modelling of Supervised and unsupervised Learning.</h4>
-        <h5 style="font-style:italic">-   Dr.L.Jerart Julus, Asso. Prof/IT</h5>
         <h4>-> Demonstration of Machine learning algorithms.</h4>
-        <h5 style="font-style:italic">-   Mr. A. Aanand, Final year/IT</h5>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc64S9mYQalnCJQrNWZSHw1oJjHautIrxIQC-QHnhtNtijlQA/viewform">
+    <a href="#">
     <form>
     <span></span>
         REGISTER
